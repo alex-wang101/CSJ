@@ -13,9 +13,9 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return R * c
 
 def main():
-    da_file = 'DA_geocoded.csv'
-    target_file = 'AM_geocoded.csv'
-    output_file = 'distances.csv'
+    da_file = 'csvs/DA_geocoded.csv'
+    target_file = 'csvs/AM_geocoded_hospitals.csv'
+    output_file = 'csvs/distances_hospitals.csv'
 
     # Load destination addresses
     with open(target_file, newline='', encoding='utf-8') as f:

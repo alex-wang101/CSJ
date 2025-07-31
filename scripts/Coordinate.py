@@ -17,8 +17,8 @@ def geocode_address(address):
         return None, None
 
 def main():
-    input_csv = 'AM_address.csv'
-    output_csv = 'AM_geocoded.csv'
+    input_csv = 'Address.csv'
+    output_csv = 'geocoded_addresses.csv'
     results = []
 
     with open(input_csv, newline='', encoding='utf-8') as infile:

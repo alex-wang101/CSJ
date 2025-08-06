@@ -17,21 +17,21 @@ def geocode_address(address):
         return None, None
 
 def main():
-    input_csv = 'DA_address.csv'
-    output_csv = 'DA_geocoded.csv'
+    input_csv = 'AM_address_waterfront.csv'
+    output_csv = 'AM_geocoded_waterfront.csv'
     results = []
 
     with open(input_csv, newline='', encoding='utf-8') as infile:
         reader = csv.DictReader(infile)
         for row in reader:
-            name = row['DAUID']
+            name = row['name']
             address = row['address']
             lat, lon = geocode_address(address)
             time.sleep(1)  # Respect Nominatim rate limit
-            results.append({'DAUID': name,'address': address, 'latitude': lat, 'longitude': lon})
+            results.append({'name': name,'address': address, 'latitude': lat, 'longitude': lon})
 
     with open(output_csv, 'w', newline='', encoding='utf-8') as outfile:
-        fieldnames = ['DAUID','address', 'latitude', 'longitude']
+        fieldnames = ['name','address', 'latitude', 'longitude']
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(results)

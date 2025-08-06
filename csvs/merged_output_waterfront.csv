@@ -1,50 +1,52 @@
 DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
-59170126,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",2.05,1020641
-59170127,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.88,1120755
-59170127,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",1.78,1120755
-59170128,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.21,1134602
-59170129,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.4,1023107
-59170130,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.47,1315858
-59170131,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.54,985706
-59170132,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.19,874713
-59170133,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.25,1087757
-59170134,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.79,952586
-59170135,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.82,1095008
-59170136,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.62,1048311
-59170137,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.83,1051014
-59170138,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.07,1061502
-59170139,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.83,1013725
+59170126,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",1.44,1020641
+59170127,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",1.5,1120755
+59170127,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",1.2,1120755
+59170128,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",1.99,1134602
+59170129,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",2.08,1023107
+59170130,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",2.45,1315858
+59170131,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",2.72,985706
+59170132,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.42,874713
+59170133,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.5,1087757
+59170134,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.04,952586
+59170135,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.12,1095008
+59170136,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.92,1048311
+59170137,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.15,1051014
+59170138,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.41,1061502
+59170139,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.19,1013725
 59170140,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.31,1056933
-59170140,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.6,1056933
-59170141,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.44,1269532
-59170142,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.26,1050680
-59170143,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.94,1163091
-59170144,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.88,901691
-59170145,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.0,1070096
-59170146,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.14,992863
-59170148,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.86,751104
-59170149,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.93,8913936
-59170150,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.71,762385
-59170151,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.39,729644
-59170152,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.67,775374
-59170153,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.34,878368
-59170154,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.7,1113701
-59170155,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.48,938330
-59170156,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.91,948668
-59170157,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.39,955186
-59170162,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.77,740379
-59170163,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.58,784258
-59170164,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.78,572359
-59170165,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.09,1139310
-59170167,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.99,1482694
-59170168,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.1,1337071
-59170169,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.3,1571427
-59170170,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.95,775090
-59170171,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.56,1738272
-59170172,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.74,975298
-59170174,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.68,1179242
-59170175,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.9,1259333
-59170175,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.07,1259333
+59170140,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.97,1056933
+59170141,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.79,1269532
+59170142,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.59,1050680
+59170143,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.27,1163091
+59170144,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.21,901691
+59170145,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.28,1070096
+59170146,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.37,992863
+59170148,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.02,751104
+59170149,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.07,8913936
+59170150,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.8,762385
+59170151,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",1.43,729644
+59170152,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",1.56,775374
+59170153,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.51,878368
+59170154,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",1.69,1113701
+59170155,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.7,938330
+59170156,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",2.06,948668
+59170157,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.68,955186
+59170162,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.13,740379
+59170163,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.86,784258
+59170164,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.07,572359
+59170165,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.33,1139310
+59170167,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.38,1482694
+59170168,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.44,1337071
+59170169,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.59,1571427
+59170169,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.76,1571427
+59170170,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.26,775090
+59170171,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.81,1738272
+59170172,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.78,975298
+59170174,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.95,1179242
+59170174,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.04,1179242
+59170175,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.19,1259333
+59170175,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.18,1259333
 59170177,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.73,802456
 59170178,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.73,1077058
 59170179,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.96,912374
@@ -60,106 +62,120 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170203,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",0.32,1300673
 59170203,Ross Bay Pebbles Beach,"1528 Hollywood Crescent, Victoria, BC V8S 3M7",0.35,1300673
 59170204,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",0.42,1727751
-59170224,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.71,732699
-59170225,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.72,1138123
-59170226,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.41,1003121
-59170227,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.54,774338
-59170228,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.26,1077533
-59170229,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.83,1313463
+59170224,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.85,732699
+59170225,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",3.02,1138123
+59170226,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.74,1003121
+59170227,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.81,774338
+59170228,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",2.53,1077533
+59170229,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",3.04,1313463
 59170272,Ross Bay Pebbles Beach,"1528 Hollywood Crescent, Victoria, BC V8S 3M7",0.15,1531335
 59170272,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",0.27,1531335
 59170272,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",0.34,1531335
 59170273,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",0.6,1390356
 59170274,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",0.71,1354646
-59170274,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.76,1354646
+59170274,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.74,1354646
 59170275,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.02,2250456
 59170275,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.33,2250456
-59170276,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",1.22,1296327
+59170276,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",1.21,1296327
 59170276,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.42,1296327
 59170277,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.35,1603164
-59170278,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.39,984172
-59170279,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.13,1357393
-59170280,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.17,1365597
-59170281,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.95,769011
-59170282,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.69,1685793
-59170285,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.22,920651
-59170286,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",1.14,1063124
+59170278,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.58,984172
+59170279,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.29,1357393
+59170280,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.12,1365597
+59170281,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.04,769011
+59170282,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.38,1685793
+59170282,Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.45,1685793
+59170285,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.0,920651
+59170286,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.04,1063124
 59170287,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",1.06,713505
-59170288,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.94,1054632
+59170288,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.93,1054632
+59170288,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.95,1054632
 59170289,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",1.28,1115378
 59170290,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.83,1198557
 59170291,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.57,1402114
+59170291,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.45,1402114
 59170291,Steve Fonyo Beach,"645 Dallas Rd, Victoria, BC V8V 1B6",0.46,1402114
-59170291,Dallas Road Swim Pavilion Staircase,"Dallas Rd, Victoria, BC V8V 1A7",0.46,1402114
 59170292,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.4,1494601
 59170292,Steve Fonyo Beach,"645 Dallas Rd, Victoria, BC V8V 1B6",0.4,1494601
-59170292,Dallas Road Swim Pavilion Staircase,"Dallas Rd, Victoria, BC V8V 1A7",0.4,1494601
+59170292,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.41,1494601
 59170293,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.24,1553438
 59170293,Steve Fonyo Beach,"645 Dallas Rd, Victoria, BC V8V 1B6",0.24,1553438
-59170293,Dallas Road Swim Pavilion Staircase,"Dallas Rd, Victoria, BC V8V 1A7",0.24,1553438
+59170293,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.28,1553438
+59170294,Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.21,1514264
 59170294,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.26,1514264
 59170294,Steve Fonyo Beach,"645 Dallas Rd, Victoria, BC V8V 1B6",0.26,1514264
-59170294,Dallas Road Swim Pavilion Staircase,"Dallas Rd, Victoria, BC V8V 1A7",0.26,1514264
 59170294,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",0.61,1514264
 59170295,Spiral Beach,"1119 Dallas Rd, Victoria, BC V8V 1B8",0.93,1616849
-59170296,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",1.19,1172227
-59170297,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",1.13,826680
-59170298,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.85,980853
-59170298,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.99,980853
-59170298,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.08,980853
-59170299,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.1,2272240
-59170299,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",1.01,2272240
-59170300,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.93,1261434
-59170301,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.82,1612156
-59170302,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.1,1842992
-59170302,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.87,1842992
-59170303,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.52,1486477
-59170304,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.66,11899778
-59170305,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.45,1650632
-59170308,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.7,1959497
-59170309,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.45,1559418
+59170296,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.71,1172227
+59170297,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.49,826680
+59170298,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.32,980853
+59170299,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.45,2272240
+59170300,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.82,1261434
+59170301,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.98,1612156
+59170302,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.23,1842992
+59170302,Ogden Point Pier,"185 Dallas Rd, Victoria, BC V8V 1A1",1.08,1842992
+59170303,Ogden Point Pier,"185 Dallas Rd, Victoria, BC V8V 1A1",0.76,1486477
+59170304,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.76,11899778
+59170305,Ogden Point Pier,"185 Dallas Rd, Victoria, BC V8V 1A1",0.72,1650632
+59170308,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.43,1959497
+59170309,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.54,1559418
 59170310,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.31,1021826
-59170310,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.48,1021826
-59170311,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.55,1190110
-59170312,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.3,1035481
+59170311,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.5,1190110
+59170312,Ogden Point Pier,"185 Dallas Rd, Victoria, BC V8V 1A1",0.28,1035481
 59170312,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.23,1035481
-59170313,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.21,1653677
+59170313,Ogden Point Pier,"185 Dallas Rd, Victoria, BC V8V 1A1",0.41,1653677
 59170313,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.44,1653677
-59170371,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.72,1029176
+59170371,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.41,1029176
 59170372,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.45,984319
-59170373,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.66,965773
-59170373,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.7,965773
-59170375,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.54,994132
-59170376,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.82,1032131
-59170378,Transport Canada - Port of Victoria,"12 Erie St, Victoria, BC V8V 4Z9",0.8,1765680
-59170378,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",1.06,1765680
-59170383,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.87,1008114
-59170384,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",1.1,667343
-59170385,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",1.41,1429892
-59170385,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",1.21,1429892
-59170386,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",1.04,1708097
-59170387,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.89,669043
-59170388,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.85,904377
-59170389,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.53,1037755
+59170373,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.55,965773
+59170375,Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.56,994132
+59170376,Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.25,1032131
+59170376,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.29,1032131
+59170376,Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.4,1032131
+59170378,Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.16,1765680
+59170378,Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.36,1765680
+59170378,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.2,1765680
+59170378,Lime Bay Park,"10 Cooperage Pl, Victoria, BC V9A 7J9",0.5,1765680
+59170383,Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.82,1008114
+59170383,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.4,1008114
+59170383,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.49,1008114
+59170384,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.54,667343
+59170385,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.52,1429892
+59170385,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.55,1429892
+59170386,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.2,1708097
+59170386,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.43,1708097
+59170387,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.0,669043
+59170387,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.5,669043
+59170388,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.3,904377
+59170389,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.33,1037755
+59170389,Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.45,1037755
 59170390,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.31,1346304
-59170554,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",1.19,1526738
-59170555,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",1.19,1592567
+59170554,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.19,1526738
+59170555,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",1.04,1592567
 59170556,Finlayson Point Beach,"13 Dallas Rd, Victoria, BC",1.36,1638956
 59170557,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.52,1757910
 59170558,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.22,1734242
-59170598,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.58,970445
+59170598,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.61,970445
 59170600,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.25,824751
-59170601,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.17,973857
-59170601,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",2.21,973857
-59170610,Ogden Point Pier,"Montreal St, Victoria, BC V8V 1A1",0.61,1773627
-59170611,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",1.08,878987
+59170601,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",2.25,973857
+59170610,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.62,1773627
+59170611,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.7,878987
 59170612,Gonzales Beach,"1845 Crescent Rd, Victoria, BC V8S 2G7",1.82,1408020
-59170722,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.71,1046000
-59170723,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.4,950552
-59170806,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.63,804136
-59170808,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.72,971891
-59170814,Victoria Harbour Ferry - Dockside Green,"Victoria, BC V9A 3S2",0.74,891064
-59170816,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.38,1287572
-59170817,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.4,680343
-59170819,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.5,1005417
-59170820,Victoria Harbour Ferry - Railyards,"Galloping Goose Trail, Victoria, BC V9A 7R2",0.78,902809
+59170722,Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.38,1046000
+59170722,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.43,1046000
+59170722,Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.48,1046000
+59170723,Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.43,950552
+59170806,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.87,804136
+59170808,Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.04,971891
+59170814,Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.44,891064
+59170816,Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.58,1287572
+59170816,Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.08,1287572
+59170817,Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.42,680343
+59170819,Lime Bay Park,"10 Cooperage Pl, Victoria, BC V9A 7J9",0.19,1005417
+59170819,Songhees Beach,"60 Songhees Walkway, Victoria, BC V9A 0A3",0.25,1005417
+59170819,Songhees Park,"49 Songhees Rd, Victoria, BC V9A 7J4",0.32,1005417
+59170819,Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.47,1005417
+59170819,Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.49,1005417
+59170820,Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.44,902809
+59170820,Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.1,902809
+59170820,Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.29,902809

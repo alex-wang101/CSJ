@@ -1,80 +1,94 @@
 DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
-59170126,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.04,1020641
-59170127,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.81,1120755
-59170128,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.26,1134602
-59170129,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.42,1023107
-59170130,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.66,1315858
-59170131,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.86,985706
-59170132,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.57,874713
-59170133,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.72,1087757
-59170134,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.33,952586
-59170135,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.62,1095008
-59170136,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.46,1048311
-59170137,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.71,1051014
-59170138,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.99,1061502
-59170139,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.81,1013725
-59170140,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.88,1056933
-59170141,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.53,1269532
-59170141,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.43,1269532
-59170142,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.27,1050680
-59170142,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.39,1050680
-59170143,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.07,1163091
-59170144,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.86,901691
-59170144,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.1,901691
-59170145,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.97,1070096
-59170146,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.8,992863
-59170148,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.55,751104
-59170149,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.51,8913936
-59170150,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.5,762385
-59170151,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.51,729644
-59170152,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.73,775374
-59170153,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.7,878368
-59170154,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.83,1113701
-59170155,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.96,938330
-59170156,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.18,948668
-59170157,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.22,955186
-59170162,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.86,740379
+59170126,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",0.81,1020641
+59170127,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.01,1120755
+59170128,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.42,1134602
+59170129,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.39,1023107
+59170130,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.87,1315858
+59170131,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",2.22,985706
+59170132,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",2.12,874713
+59170133,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.99,1087757
+59170133,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",2.39,1087757
+59170134,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.79,952586
+59170135,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.75,1095008
+59170136,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.56,1048311
+59170137,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.73,1051014
+59170138,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.77,1061502
+59170139,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.66,1013725
+59170140,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.24,1056933
+59170140,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.39,1056933
+59170141,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.33,1269532
+59170142,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.15,1050680
+59170143,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.97,1163091
+59170143,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.49,1163091
+59170144,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.78,901691
+59170145,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.0,1070096
+59170146,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.2,992863
+59170148,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.99,751104
+59170149,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.07,8913936
+59170150,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.84,762385
+59170151,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.52,729644
+59170152,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.19,775374
+59170152,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.58,775374
+59170153,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.44,878368
+59170154,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.51,1113701
+59170155,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.54,938330
+59170156,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.8,948668
+59170157,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.36,955186
+59170162,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.63,740379
+59170163,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.26,784258
 59170163,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.36,784258
-59170164,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.51,572359
+59170163,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.4,784258
+59170163,Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.5,784258
+59170164,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.47,572359
 59170165,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.73,1139310
-59170167,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.88,1482694
-59170168,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.89,1337071
-59170169,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.15,1571427
-59170170,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.73,775090
-59170171,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.3,1738272
-59170172,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.49,975298
-59170174,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.52,1179242
-59170175,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.85,1259333
-59170177,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.12,802456
-59170178,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.32,1077058
-59170179,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.24,912374
-59170180,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.6,1444451
-59170181,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.79,1034612
-59170197,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.63,1344632
-59170198,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.58,1186784
-59170199,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.11,1330660
-59170200,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.42,1457357
-59170201,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.02,1862585
-59170202,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.21,1550804
-59170203,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.4,1300673
-59170204,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.68,1727751
-59170224,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.59,732699
-59170225,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.38,1138123
-59170226,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.28,1003121
-59170227,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.08,774338
-59170228,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.85,1077533
-59170229,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.19,1313463
-59170272,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.58,1531335
-59170273,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.79,1390356
-59170274,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.63,1354646
-59170275,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.47,2250456
+59170167,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.75,1482694
+59170168,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.81,1337071
+59170169,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.05,1571427
+59170170,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.66,775090
+59170170,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.35,775090
+59170170,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.39,775090
+59170170,Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.47,775090
+59170171,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.27,1738272
+59170172,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.46,975298
+59170174,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.44,1179242
+59170175,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.6,1259333
+59170175,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.45,1259333
+59170177,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.07,802456
+59170178,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",0.86,1077058
+59170179,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.01,912374
+59170180,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",0.61,1444451
+59170181,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",0.41,1034612
+59170197,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",0.8,1344632
+59170198,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",0.63,1186784
+59170199,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.1,1330660
+59170200,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.58,1457357
+59170201,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.9,1862585
+59170202,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.5,1550804
+59170203,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.42,1300673
+59170204,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.23,1727751
+59170224,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.39,732699
+59170225,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.9,1138123
+59170226,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.61,1003121
+59170227,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",2.22,774338
+59170228,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",2.21,1077533
+59170229,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",2.48,1313463
+59170272,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",0.59,1531335
+59170273,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.01,1390356
+59170274,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.33,1354646
+59170275,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.26,2250456
+59170275,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.05,2250456
 59170276,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.05,1296327
 59170277,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.23,1603164
 59170278,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.96,984172
 59170279,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.67,1357393
 59170280,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.62,1365597
 59170281,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.43,769011
+59170282,Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.3,1685793
 59170282,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.33,1685793
+59170282,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.33,1685793
+59170282,Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.4,1685793
+59170282,Sprott Shaw Victoria College Campus,"103 - 31 Bastion Square, Victoria, BC V8W 1J1",0.46,1685793
+59170282,Sprott Shaw College,"31 Bastion Square, Victoria, BC V8W 1J1",0.49,1685793
 59170285,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.64,920651
 59170286,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.85,1063124
 59170287,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.99,713505
@@ -84,55 +98,63 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170291,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.53,1402114
 59170292,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.6,1494601
 59170293,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.79,1553438
-59170294,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.95,1514264
+59170294,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.55,1514264
 59170295,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.09,1616849
-59170296,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.12,1172227
-59170297,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.95,826680
-59170298,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.91,980853
-59170299,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.97,2272240
-59170300,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.38,1261434
-59170301,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.58,1612156
-59170302,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.23,1842992
-59170303,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.63,1486477
-59170304,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.42,11899778
-59170305,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.47,1650632
-59170308,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.14,1959497
-59170309,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.39,1559418
-59170310,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.5,1021826
-59170311,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.16,1190110
-59170312,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.77,1035481
-59170313,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.71,1653677
-59170371,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.04,1029176
-59170372,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.89,984319
-59170373,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.74,965773
-59170375,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.49,994132
-59170376,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.89,1032131
-59170378,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",2.08,1765680
-59170383,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.48,1008114
-59170384,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.55,667343
-59170385,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.83,1429892
-59170386,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.07,1708097
-59170387,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.26,669043
-59170388,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.52,904377
-59170389,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.74,1037755
-59170390,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.77,1346304
-59170554,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.67,1526738
-59170555,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.49,1592567
-59170556,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.48,1638956
-59170557,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.57,1757910
-59170558,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.84,1734242
-59170598,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.57,970445
-59170600,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.42,824751
-59170601,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",2.16,973857
-59170610,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.3,1773627
+59170296,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.04,1172227
+59170297,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.83,826680
+59170298,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.64,980853
+59170299,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.8,2272240
+59170300,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.18,1261434
+59170301,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.35,1612156
+59170302,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.02,1842992
+59170303,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.3,1486477
+59170304,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.11,11899778
+59170305,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.09,1650632
+59170308,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.75,1959497
+59170309,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.92,1559418
+59170310,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.99,1021826
+59170311,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.65,1190110
+59170312,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.27,1035481
+59170313,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.26,1653677
+59170371,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.93,1029176
+59170372,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.96,984319
+59170373,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.68,965773
+59170375,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.41,994132
+59170376,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.56,1032131
+59170378,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.62,1765680
+59170383,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.08,1008114
+59170383,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.25,1008114
+59170384,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.04,667343
+59170385,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",0.76,1429892
+59170386,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",0.95,1708097
+59170387,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.0,669043
+59170388,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.01,904377
+59170389,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.35,1037755
+59170390,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.54,1346304
+59170554,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.55,1526738
+59170555,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",1.4,1592567
+59170556,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.39,1638956
+59170556,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.21,1638956
+59170557,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.42,1757910
+59170558,Camosun College Lansdowne Campus,"3100 Foul Bay Rd, Victoria, BC V8P 5J2",1.1,1734242
+59170598,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.25,970445
+59170600,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.03,824751
+59170601,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.27,973857
+59170610,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.95,1773627
 59170611,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.53,878987
-59170612,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.84,1408020
-59170722,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.75,1046000
-59170723,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.24,950552
-59170806,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",0.8,804136
-59170808,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.98,971891
+59170612,Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.35,1408020
+59170722,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.5,1046000
+59170723,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.28,950552
+59170806,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.73,804136
+59170808,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.7,971891
 59170814,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.3,891064
-59170816,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.67,1287572
-59170817,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.2,680343
-59170819,West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",1.45,1005417
-59170820,Vancouver Island Institute of Medical Technology,"740 Hillside Ave Suite 301, Victoria, BC V8T 1Z4",1.8,902809
+59170814,Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.36,891064
+59170814,Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.43,891064
+59170814,Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.36,891064
+59170814,Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.46,891064
+59170814,Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.47,891064
+59170816,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.58,1287572
+59170816,Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.88,1287572
+59170817,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.27,680343
+59170819,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.81,1005417
+59170820,Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.54,902809

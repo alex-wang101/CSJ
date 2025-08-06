@@ -1,234 +1,237 @@
 DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170126,"3148 Fifth St, Victoria, BC V8X 1E7",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.21
 59170126,"3148 Fifth St, Victoria, BC V8X 1E7",Quadra Heights Playground,"825 Villance St, Victoria, BC V8X 2P5",0.27
-59170126,"3148 Fifth St, Victoria, BC V8X 1E7",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.5
+59170126,"3148 Fifth St, Victoria, BC V8X 1E7",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.37
+59170126,"3148 Fifth St, Victoria, BC V8X 1E7",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.37
 59170126,"847 Villance St, Victoria, BC V8X 2P5",Quadra Heights Playground,"825 Villance St, Victoria, BC V8X 2P5",0.03
-59170126,"847 Villance St, Victoria, BC V8X 2P5",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.45
+59170126,"847 Villance St, Victoria, BC V8X 2P5",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.24
+59170126,"847 Villance St, Victoria, BC V8X 2P5",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.24
+59170126,"847 Villance St, Victoria, BC V8X 2P5",Rutledge Park ,"901 Inverness Rd, Victoria, BC V8X 2R9",0.45
 59170126,"847 Villance St, Victoria, BC V8X 2P5",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.46
-59170127,"3000 Quadra St, Victoria, BC V8T 4G3",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.22
+59170127,"3000 Quadra St, Victoria, BC V8T 4G3",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.3
+59170127,"3000 Quadra St, Victoria, BC V8T 4G3",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.3
 59170127,"3000 Quadra St, Victoria, BC V8T 4G3",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.33
-59170127,"3000 Quadra St, Victoria, BC V8T 4G3",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.37
 59170127,"3000 Quadra St, Victoria, BC V8T 4G3",Quadra Heights Playground,"825 Villance St, Victoria, BC V8X 2P5",0.47
 59170127,"3037 Josette Pl, Victoria, BC V8T 4Z9",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.18
-59170127,"3037 Josette Pl, Victoria, BC V8T 4Z9",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.29
-59170127,"3037 Josette Pl, Victoria, BC V8T 4Z9",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.41
+59170127,"3037 Josette Pl, Victoria, BC V8T 4Z9",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.45
+59170127,"3037 Josette Pl, Victoria, BC V8T 4Z9",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.45
+59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.05
+59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.05
 59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Quadra Heights Playground,"825 Villance St, Victoria, BC V8X 2P5",0.23
-59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.27
-59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Jackalope Meadow,"1245 Summit Ave, Victoria, BC V8T 2P9",0.45
 59170127,"3118 Rutledge St, Victoria, BC V8X 1N2",Summit Park,"1245 Summit Ave, Victoria, BC V8T 2P9",0.45
 59170128,"1120 Finlayson St, Victoria, BC V8T 2T9",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.07
-59170128,"1120 Finlayson St, Victoria, BC V8T 2T9",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.46
-59170128,"1345 Lang St, Victoria, BC V8T 2S4",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.16
-59170129,"3147 Mars St, Victoria, BC V8X 1B9",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.3
+59170128,"1345 Lang St, Victoria, BC V8T 2S4",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.54
 59170129,"3147 Mars St, Victoria, BC V8X 1B9",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.38
-59170130,"1422 Lang St, Victoria, BC V8T 2S7",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.12
 59170130,"1422 Lang St, Victoria, BC V8T 2S7",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.41
-59170130,"1440 Lang St, Victoria, BC V8T 2S7",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.24
 59170130,"1440 Lang St, Victoria, BC V8T 2S7",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.28
 59170131,"1545 Burton Ave, Victoria, BC V8T 2N3",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.12
 59170131,"2930 Gosworth Rd, Victoria, BC V8T 3C7",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.18
-59170131,"2930 Gosworth Rd, Victoria, BC V8T 3C7",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.47
 59170132,"1444 Edgeware Rd, Victoria, BC V8T 2J5",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.43
 59170132,"1444 Edgeware Rd, Victoria, BC V8T 2J5",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.43
-59170132,"1444 Edgeware Rd, Victoria, BC V8T 2J5",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.5
+59170132,"1444 Edgeware Rd, Victoria, BC V8T 2J5",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.44
+59170132,"2933 Cedar Hill Rd, Victoria, BC V8T 3H8",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.34
 59170132,"2933 Cedar Hill Rd, Victoria, BC V8T 3H8",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.44
+59170133,"1360 Hillside Ave, Victoria, BC V8T 2B5",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.21
 59170133,"1360 Hillside Ave, Victoria, BC V8T 2B5",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.24
-59170133,"1360 Hillside Ave, Victoria, BC V8T 2B5",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.33
-59170133,"1443 Westall Ave, Victoria, BC V8T 2G4",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.33
+59170133,"1360 Hillside Ave, Victoria, BC V8T 2B5",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.33
+59170133,"1360 Hillside Ave, Victoria, BC V8T 2B5",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.33
 59170133,"1443 Westall Ave, Victoria, BC V8T 2G4",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.38
-59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.16
+59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.13
+59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.16
+59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.16
 59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.24
-59170134,"2750 Mt. Stephen Ave, Victoria, BC V8T 2B3",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.5
-59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.09
+59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.09
+59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.09
 59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.14
-59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.42
+59170135,"1251 Acton St, Victoria, BC V8T 1Y1",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.29
+59170135,"2737 Avebury Ave, Victoria, BC V8R 3W5",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.15
 59170135,"2737 Avebury Ave, Victoria, BC V8R 3W5",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.49
-59170135,"2737 Avebury Ave, Victoria, BC V8R 3W5",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.49
-59170136,"2536 Garden St, Victoria, BC V8T 3G5",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.17
-59170136,"2536 Garden St, Victoria, BC V8T 3G5",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.34
+59170136,"2536 Garden St, Victoria, BC V8T 3G5",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.32
+59170136,"2536 Garden St, Victoria, BC V8T 3G5",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.34
+59170136,"2536 Garden St, Victoria, BC V8T 3G5",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.34
 59170136,"2536 Garden St, Victoria, BC V8T 3G5",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.47
-59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.14
-59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.26
+59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.14
+59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.14
 59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.29
-59170137,"2522 Avebury Ave, Victoria, BC V8R 3V9",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.46
+59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.42
+59170136,"2640 Cedar Hill Rd, Victoria, BC V8T 3H2",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.47
+59170137,"2522 Avebury Ave, Victoria, BC V8R 3V9",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.14
 59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.28
-59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.31
-59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.41
+59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.31
+59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.31
+59170137,"2636 Roseberry Ave, Victoria, BC V8R 3T7",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.36
 59170138,"2544 Forbes St, Victoria, BC V8R 4B8",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.31
+59170138,"2544 Forbes St, Victoria, BC V8R 4B8",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.32
+59170138,"2634 Belmont Ave, Victoria, BC V8R 4A6",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.41
 59170138,"2634 Belmont Ave, Victoria, BC V8R 4A6",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.45
-59170138,"2634 Belmont Ave, Victoria, BC V8R 4A6",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.45
+59170139,"1440 Taunton St, Victoria, BC V8R 1W9",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.23
 59170139,"1440 Taunton St, Victoria, BC V8R 1W9",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.33
+59170139,"1453 Walnut St, Victoria, BC V8R 1Y7",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.19
 59170139,"1453 Walnut St, Victoria, BC V8R 1Y7",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.28
 59170140,"1325 Denman St, Victoria, BC V8R 1X4",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.2
 59170140,"1325 Denman St, Victoria, BC V8R 1X4",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.4
+59170140,"1337 Gladstone Ave, Victoria, BC V8R 1R9",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.42
 59170140,"1337 Gladstone Ave, Victoria, BC V8R 1R9",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.48
 59170140,"1337 Gladstone Ave, Victoria, BC V8R 1R9",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.5
-59170141,"1270 Denman St, Victoria, BC V8T 1L8",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.34
-59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.15
-59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.48
-59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.24
-59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.4
+59170141,"1270 Denman St, Victoria, BC V8T 1L8",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.26
+59170141,"1270 Denman St, Victoria, BC V8T 1L8",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.34
+59170141,"1270 Denman St, Victoria, BC V8T 1L8",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.48
+59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.33
+59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.37
+59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.4
+59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.48
+59170141,"2412 Cedar Hill Rd, Victoria, BC V8T 3G7",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.48
+59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.22
+59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.22
+59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.42
 59170142,"1150 Queens Ave, Victoria, BC V8T 1M9",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.48
-59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.31
+59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.18
+59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.31
+59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.43
 59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.46
 59170142,"1224 Princess Ave, Victoria, BC V8T 1L5",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.47
+59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.19
 59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.21
-59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.24
+59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.21
+59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.25
 59170143,"1137 Caledonia Ave, Victoria, BC V8T 1E9",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.38
+59170143,"1284D Gladstone Ave, Victoria, BC V8T 1G6",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.23
 59170143,"1284D Gladstone Ave, Victoria, BC V8T 1G6",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.25
-59170143,"1284D Gladstone Ave, Victoria, BC V8T 1G6",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.47
+59170143,"1284D Gladstone Ave, Victoria, BC V8T 1G6",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.39
+59170143,"1284D Gladstone Ave, Victoria, BC V8T 1G6",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.45
 59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.16
-59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.36
+59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.2
+59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.33
+59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.33
 59170143,"1907 Chambers St, Victoria, BC V8T 3K5",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.43
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Richmond Avenue Grass Triangle,"Victoria, BC V8S 3X9",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Lime Bay Park,"Victoria, BC V9A 6T5",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Mary Street Park,"Victoria, BC V9A 3X1",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Dundas Green,"Victoria, BC V9A 3J9",0.32
 59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Cecelia Cove Park,"Victoria, BC V8T 5K7",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Hillside Park,"Victoria, BC V8T 3S2",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Alexander Park,"Victoria, BC V8R 1Y5",0.32
-59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Stevenson Memorial Park,"Victoria, BC V8T 1J6",0.32
 59170143,"935 Caledonia Ave, Victoria, BC V8T 1E7",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.46
-59170144,"1022 N Park St, Victoria, BC V8T 1C6",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.14
+59170144,"1022 N Park St, Victoria, BC V8T 1C6",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.1
+59170144,"1022 N Park St, Victoria, BC V8T 1C6",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.31
 59170144,"1022 N Park St, Victoria, BC V8T 1C6",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.33
+59170144,"1022 N Park St, Victoria, BC V8T 1C6",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.37
 59170144,"1022 N Park St, Victoria, BC V8T 1C6",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.39
 59170144,"1022 N Park St, Victoria, BC V8T 1C6",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.43
 59170144,"1022 N Park St, Victoria, BC V8T 1C6",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.45
-59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.23
+59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.13
 59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.25
-59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.46
+59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.27
+59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.3
 59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.2
-59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.36
-59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.43
-59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.46
-59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.29
+59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.28
+59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.41
+59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.43
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.35
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.36
-59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.2
+59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.5
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.29
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.48
-59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.11
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.34
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.38
-59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.08
+59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.45
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.32
+59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.39
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.4
-59170149,"2620 Dowler Pl, Victoria, BC V8T 4H8",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.29
 59170149,"2620 Dowler Pl, Victoria, BC V8T 4H8",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.3
+59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.12
 59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.16
-59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.27
-59170150,"723 Field St, Victoria, BC V8T 1N7",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.35
+59170150,"723 Field St, Victoria, BC V8T 1N7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.51
+59170151,"932 Market St, Victoria, BC V8T 2E9",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.11
 59170151,"932 Market St, Victoria, BC V8T 2E9",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.16
-59170151,"932 Market St, Victoria, BC V8T 2E9",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.36
-59170151,"932 Market St, Victoria, BC V8T 2E9",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.44
 59170152,"272 Fifth St, Victoria, BC V8T 4E8",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.25
-59170152,"272 Fifth St, Victoria, BC V8T 4E8",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.27
-59170152,"272 Fifth St, Victoria, BC V8T 4E8",Topaz Park,"Topaz Ave & Finlayson Street & Blanshard Street, Victoria, BC",0.35
+59170152,"272 Fifth St, Victoria, BC V8T 4E8",Topaz Park,"841 Finlayson St, Victoria, BC V8T 5K8",0.42
+59170152,"272 Fifth St, Victoria, BC V8T 4E8",Wesley Park Playground,"841 Finlayson St, Victoria, BC V8T 5K8",0.42
 59170152,"2735 Fifth St, Victoria, BC V8T 4B1",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.21
-59170152,"2735 Fifth St, Victoria, BC V8T 4B1",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.28
-59170152,"2735 Fifth St, Victoria, BC V8T 4B1",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.48
+59170152,"2735 Fifth St, Victoria, BC V8T 4B1",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.24
 59170153,"2648 Graham St, Victoria, BC V8T 3Y9",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.18
-59170153,"2648 Graham St, Victoria, BC V8T 3Y9",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.38
-59170153,"2648 Graham St, Victoria, BC V8T 3Y9",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.43
-59170154,"2840 Prior St, Victoria, BC V8T 3Y3",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.05
+59170153,"2648 Graham St, Victoria, BC V8T 3Y9",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.31
 59170154,"2840 Prior St, Victoria, BC V8T 3Y3",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.45
+59170154,"2840 Prior St, Victoria, BC V8T 3Y3",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.46
 59170154,"2840 Prior St, Victoria, BC V8T 3Y3",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.49
-59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.41
+59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.33
+59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.41
+59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.41
 59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.43
-59170155,"2631 Blackwood St, Victoria, BC V8T 3W3",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.5
-59170156,"1250 Vista Heights, Victoria, BC V8T 2H8",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.32
-59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.47
-59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",SJ Willis Field,"923 Topaz Ave, Victoria, BC V8T 2M2",0.5
-59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.05
-59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.38
-59170157,"2576 Empire St, Victoria, BC V8T 3M6",Wesley Park Playground,"2520 Wesley Pl, Victoria, BC V8T 1V1",0.19
-59170157,"2576 Empire St, Victoria, BC V8T 3M6",Tennis Courts,"1500 Kings Rd, Victoria, BC V8R 4G8",0.31
-59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.23
+59170156,"1250 Vista Heights, Victoria, BC V8T 2H8",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.27
+59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.31
+59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.38
+59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.38
+59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.41
+59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.41
+59170157,"2576 Empire St, Victoria, BC V8T 3M6",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.31
+59170157,"2576 Empire St, Victoria, BC V8T 3M6",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.31
+59170157,"2576 Empire St, Victoria, BC V8T 3M6",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.46
+59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.18
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.24
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.36
+59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.39
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.4
-59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.1
+59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.43
+59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.13
+59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.26
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.29
+59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.39
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.45
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.49
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.27
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.38
-59170163,"930 Yates St, Victoria, BC V8V 4Z3",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.39
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.22
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.43
 59170165,"1144 View St, Victoria, BC V8V 3M1",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.33
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.16
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.17
-59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.39
+59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.34
+59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.42
+59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.48
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.22
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.32
-59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.49
 59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.12
 59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.32
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.08
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.37
+59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.4
+59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.47
 59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.28
-59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.47
 59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.48
 59170170,"1215 Johnson St, Victoria, BC V8V 3N9",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.27
 59170170,"1215 Johnson St, Victoria, BC V8V 3N9",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.36
-59170170,"1215 Johnson St, Victoria, BC V8V 3N9",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.49
 59170170,"1250 Johnson St, Victoria, BC V8V 4L4",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.32
 59170170,"1250 Johnson St, Victoria, BC V8V 4L4",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.34
-59170170,"1250 Johnson St, Victoria, BC V8V 4L4",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.42
 59170170,"1323 Johnson St, Victoria, BC V8V 3P2",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.19
 59170170,"1323 Johnson St, Victoria, BC V8V 3P2",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.4
-59170170,"1323 Johnson St, Victoria, BC V8V 3P2",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.41
-59170171,"1404 Harrison St, Victoria, BC V8S 3S2",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.25
 59170171,"1404 Harrison St, Victoria, BC V8S 3S2",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.34
-59170171,"1404 Harrison St, Victoria, BC V8S 3S2",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.38
+59170171,"1404 Harrison St, Victoria, BC V8S 3S2",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.45
 59170172,"1436 Elford St, Victoria, BC V8S 3S8",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.15
-59170172,"1436 Elford St, Victoria, BC V8S 3S8",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.19
-59170172,"1436 Elford St, Victoria, BC V8S 3S8",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.35
 59170174,"1337 Grant St, Victoria, BC V8R 1M2",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.35
 59170174,"1337 Grant St, Victoria, BC V8R 1M2",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.43
-59170174,"1337 Grant St, Victoria, BC V8R 1M2",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.46
 59170174,"1434 Grant St, Victoria, BC V8R 1M5",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.26
-59170174,"1434 Grant St, Victoria, BC V8R 1M5",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.37
 59170174,"1434 Grant St, Victoria, BC V8R 1M5",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.47
 59170175,"1436 Gladstone Ave, Victoria, BC V8R 1S3",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.35
+59170175,"1436 Gladstone Ave, Victoria, BC V8R 1S3",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.42
 59170175,"1436 Gladstone Ave, Victoria, BC V8R 1S3",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.45
 59170175,"1436 Gladstone Ave, Victoria, BC V8R 1S3",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.49
 59170175,"1551 Gladstone Ave, Victoria, BC V8R 1S4",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.23
 59170175,"1551 Gladstone Ave, Victoria, BC V8R 1S4",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.29
 59170175,"1551 Gladstone Ave, Victoria, BC V8R 1S4",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.43
 59170175,"2234 Forbes St, Victoria, BC V8R 4B4",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.16
+59170175,"2234 Forbes St, Victoria, BC V8R 4B4",Alexander Park,"2422 Oregon Ave, Victoria, BC V8R 3V8",0.39
 59170175,"2234 Forbes St, Victoria, BC V8R 4B4",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.46
 59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.19
-59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.38
 59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.38
-59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.38
-59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.46
 59170177,"1530 Belcher Ave, Victoria, BC V8R 4N1",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.48
-59170178,"1550 Richmond Ave, Victoria, BC V8R 4P6",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.19
-59170178,"1550 Richmond Ave, Victoria, BC V8R 4P6",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.19
 59170178,"1550 Richmond Ave, Victoria, BC V8R 4P6",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.31
 59170178,"1550 Richmond Ave, Victoria, BC V8R 4P6",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.5
 59170179,"1827 Chestnut St, Victoria, BC V8R 4N6",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.15
-59170179,"1827 Chestnut St, Victoria, BC V8R 4N6",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.31
-59170179,"1827 Chestnut St, Victoria, BC V8R 4N6",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.32
 59170179,"1827 Chestnut St, Victoria, BC V8R 4N6",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.48
-59170180,"1607 Fell St, Victoria, BC V8R 4V9",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.13
-59170180,"1607 Fell St, Victoria, BC V8R 4V9",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.15
-59170180,"1746 Davie St, Victoria, BC V8R 4W6",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.16
-59170180,"1746 Davie St, Victoria, BC V8R 4W6",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.17
-59170181,"1605 Redfern St, Victoria, BC V8R 4X3",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.31
-59170181,"1605 Redfern St, Victoria, BC V8R 4X3",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.32
-59170181,"1732 Amphion St, Victoria, BC V8R 4Z7",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.33
-59170181,"1732 Amphion St, Victoria, BC V8R 4Z7",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.34
-59170197,"941 Lawndale Ave, Victoria, BC V8S 4C9",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.69
-59170198,"1041 Chamberlain St, Victoria, BC V8S 4C1",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.36
-59170198,"1041 Chamberlain St, Victoria, BC V8S 4C1",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.38
+59170180,"1607 Fell St, Victoria, BC V8R 4V9",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.55
+59170180,"1746 Davie St, Victoria, BC V8R 4W6",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.54
+59170181,"1605 Redfern St, Victoria, BC V8R 4X3",Redfern Park,"1755 Redfern St, Victoria, BC V8R 4X3",0.6
+59170181,"1732 Amphion St, Victoria, BC V8R 4Z7",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.75
+59170197,"941 Lawndale Ave, Victoria, BC V8S 4C9",Redfern Park,"1755 Redfern St, Victoria, BC V8R 4X3",0.14
+59170198,"1041 Chamberlain St, Victoria, BC V8S 4C1",Redfern Park,"1755 Redfern St, Victoria, BC V8R 4X3",0.43
 59170199,"1750 Rockland Ave, Victoria, BC V8S 1W9",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.17
-59170199,"1750 Rockland Ave, Victoria, BC V8S 1W9",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.48
 59170200,"34 Armine Pl, Victoria, BC V8S 1S7",Abkhazi Garden,"1964 Fairfield Rd, Victoria, BC V8S 1H2",0.25
-59170200,"801 Bank St, Victoria, BC V8S 4A8",Abkhazi Garden,"1964 Fairfield Rd, Victoria, BC V8S 1H2",0.55
+59170200,"801 Bank St, Victoria, BC V8S 4A8",Redfern Park,"1755 Redfern St, Victoria, BC V8R 4X3",0.42
 59170201,"1530 Despard Ave, Victoria, BC V8S 1T3",Pemberton Park,"1855 Richardson St, Victoria, BC V8S 1S1",0.36
 59170201,"1530 Despard Ave, Victoria, BC V8S 1T3",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.44
 59170201,"1730 Algoa Pl, Victoria, BC V8S 5J6",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.34
@@ -248,148 +251,162 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170204,"326 Irving Rd, Victoria, BC V8S 4A2",Abkhazi Garden,"1964 Fairfield Rd, Victoria, BC V8S 1H2",0.3
 59170204,"326 Irving Rd, Victoria, BC V8S 4A2",Ross Bay Cemetery,"1495 Fairfield Rd, Victoria, BC V8S 3L6",0.3
 59170204,"443 Chadwick Pl, Victoria, BC V8S 1H4",Abkhazi Garden,"1964 Fairfield Rd, Victoria, BC V8S 1H2",0.08
-59170224,"1733 Kings Rd, Victoria, BC V8R 2N9",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.38
-59170225,"1651 Pearl St, Victoria, BC V8R 2Z2",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.39
-59170226,"2646 Scott St, Victoria, BC V8R 4H9",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.5
-59170227,"1543 Pearl St, Victoria, BC V8R 2Y8",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.19
+59170224,"1733 Kings Rd, Victoria, BC V8R 2N9",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.71
+59170225,"1651 Pearl St, Victoria, BC V8R 2Z2",Browning Park,"3324 Shelbourne St, Victoria, BC V8P 5H1",0.5
+59170226,"2646 Scott St, Victoria, BC V8R 4H9",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.55
+59170227,"1543 Pearl St, Victoria, BC V8R 2Y8",Browning Park,"3324 Shelbourne St, Victoria, BC V8P 5H1",0.55
 59170227,"1546 Westall Ave, Victoria, BC V8T 2G7",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.36
-59170227,"1546 Westall Ave, Victoria, BC V8T 2G7",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.36
-59170228,"1435 Myrtle Ave, Victoria, BC V8R 2Z5",Oaklands (Holly) Green,"1515 Holly St, Victoria, BC V8R 2Y5",0.15
 59170228,"1435 Myrtle Ave, Victoria, BC V8R 2Z5",Oswald Park,"3031 Cedar Hill Rd, Victoria, BC V8T 3J2",0.32
 59170229,"1637 Burton Ave, Victoria, BC V8T 2N5",Clawthorpe Park,"1619 Clawthorpe Ave, Victoria, BC V8T 2R8",0.27
+59170229,"1637 Burton Ave, Victoria, BC V8T 2N5",Browning Park,"3324 Shelbourne St, Victoria, BC V8P 5H1",0.44
 59170272,"142 Beechwood Ave, Victoria, BC V8S 3W5",Gonzales Park,"1809 Crescent Rd, Victoria, BC V8S 2G6",0.34
 59170272,"142 Beechwood Ave, Victoria, BC V8S 3W5",Hollywood Park,"1700 Fairfield Rd, Victoria, BC V8S 1G3",0.43
 59170272,"142 Beechwood Ave, Victoria, BC V8S 3W5",Ross Bay Cemetery,"1495 Fairfield Rd, Victoria, BC V8S 3L6",0.43
 59170273,"1450 Hamley St, Victoria, BC V8S 1N1",Brooke Street Park,"1425 Brooke St, Victoria, BC V8S 1M4",0.23
 59170273,"1450 Hamley St, Victoria, BC V8S 1N1",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.29
 59170273,"1450 Hamley St, Victoria, BC V8S 1N1",Pemberton Park,"1855 Richardson St, Victoria, BC V8S 1S1",0.37
-59170273,"1450 Hamley St, Victoria, BC V8S 1N1",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.5
+59170273,"1450 Hamley St, Victoria, BC V8S 1N1",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.41
 59170273,"339 Stannard Ave, Victoria, BC V8S 3M3",Brooke Street Park,"1425 Brooke St, Victoria, BC V8S 1M4",0.15
 59170273,"339 Stannard Ave, Victoria, BC V8S 3M3",Pemberton Park,"1855 Richardson St, Victoria, BC V8S 1S1",0.33
 59170273,"339 Stannard Ave, Victoria, BC V8S 3M3",Hollywood Park,"1700 Fairfield Rd, Victoria, BC V8S 1G3",0.46
 59170273,"339 Stannard Ave, Victoria, BC V8S 3M3",Ross Bay Cemetery,"1495 Fairfield Rd, Victoria, BC V8S 3L6",0.46
+59170273,"339 Stannard Ave, Victoria, BC V8S 3M3",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.47
+59170274,"1322 D Thurlow Rd, Victoria, BC V8S 1L6",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.25
 59170274,"1322 D Thurlow Rd, Victoria, BC V8S 1L6",Brooke Street Park,"1425 Brooke St, Victoria, BC V8S 1M4",0.31
-59170274,"1322 D Thurlow Rd, Victoria, BC V8S 1L6",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.34
 59170274,"1322 D Thurlow Rd, Victoria, BC V8S 1L6",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.46
-59170274,"1331 Vimy Pl, Victoria, BC V8S 1C5",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.16
+59170274,"1331 Vimy Pl, Victoria, BC V8S 1C5",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.14
 59170274,"1331 Vimy Pl, Victoria, BC V8S 1C5",Bushby Park,"160 Bushby St, Victoria, BC V8S 3H8",0.39
 59170274,"1331 Vimy Pl, Victoria, BC V8S 1C5",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.46
-59170274,"1423 Fairfield Rd, Victoria, BC V8S 1E6",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.16
+59170274,"1423 Fairfield Rd, Victoria, BC V8S 1E6",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.1
 59170274,"1423 Fairfield Rd, Victoria, BC V8S 1E6",Brooke Street Park,"1425 Brooke St, Victoria, BC V8S 1M4",0.32
 59170274,"1423 Fairfield Rd, Victoria, BC V8S 1E6",Bushby Park,"160 Bushby St, Victoria, BC V8S 3H8",0.37
 59170275,"1315 Richardson St, Victoria, BC V8S 1P6",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.35
+59170275,"1315 Richardson St, Victoria, BC V8S 1P6",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.41
 59170275,"1329 Minto St, Victoria, BC V8S 1P3",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.34
+59170275,"1329 Minto St, Victoria, BC V8S 1P3",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.48
 59170275,"441 Stannard Ave, Victoria, BC V8S 3M6",Pemberton Park,"1855 Richardson St, Victoria, BC V8S 1S1",0.1
 59170275,"441 Stannard Ave, Victoria, BC V8S 3M6",Brooke Street Park,"1425 Brooke St, Victoria, BC V8S 1M4",0.17
 59170275,"441 Stannard Ave, Victoria, BC V8S 3M6",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.38
 59170275,"441 Stannard Ave, Victoria, BC V8S 3M6",Hollywood Park,"1700 Fairfield Rd, Victoria, BC V8S 1G3",0.48
 59170275,"441 Stannard Ave, Victoria, BC V8S 3M6",Ross Bay Cemetery,"1495 Fairfield Rd, Victoria, BC V8S 3L6",0.48
 59170275,"524C St Charles St, Victoria, BC V8S 3N7",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.35
-59170275,"524C St Charles St, Victoria, BC V8S 3N7",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.37
-59170275,"524C St Charles St, Victoria, BC V8S 3N7",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.43
+59170275,"524C St Charles St, Victoria, BC V8S 3N7",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.43
 59170275,"524C St Charles St, Victoria, BC V8S 3N7",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.48
 59170275,"524C St Charles St, Victoria, BC V8S 3N7",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.5
 59170275,"711 Robleda Crescent, Victoria, BC V8S 3K6",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.22
-59170275,"711 Robleda Crescent, Victoria, BC V8S 3K6",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.5
+59170275,"711 Robleda Crescent, Victoria, BC V8S 3K6",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.3
 59170276,"614 Cornwall St, Victoria, BC V8V 4L1",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.54
-59170276,"801 Langham Ct, Victoria, BC V8V 4J3",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.54
-59170277,"1310 Rockland Ave, Victoria, BC V8S 1V5",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.32
+59170276,"801 Langham Ct, Victoria, BC V8V 4J3",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.4
+59170277,"1310 Rockland Ave, Victoria, BC V8S 1V5",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.17
 59170277,"1310 Rockland Ave, Victoria, BC V8S 1V5",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.43
-59170277,"1314 Manor Rd, Victoria, BC V8S 2A2",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.28
+59170277,"1314 Manor Rd, Victoria, BC V8S 2A2",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.1
 59170277,"1314 Manor Rd, Victoria, BC V8S 2A2",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.3
-59170278,"1012 Pentrelew Pl, Victoria, BC V8V 4J4",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.35
+59170278,"1012 Pentrelew Pl, Victoria, BC V8V 4J4",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.29
 59170279,"1144 Rockland Ave, Victoria, BC V8V 3H7",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.52
-59170280,"1020 Richardson St, Victoria, BC V8V 3C5",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.6
-59170280,"1138 McClure St, Victoria, BC V8V 3G2",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.7
-59170281,"1019 Rockland Ave, Victoria, BC V8V 3H6",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.51
+59170280,"1020 Richardson St, Victoria, BC V8V 3C5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.47
+59170280,"1138 McClure St, Victoria, BC V8V 3G2",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.62
+59170281,"1019 Rockland Ave, Victoria, BC V8V 3H6",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.59
 59170282,"929 Burdett Ave, Victoria, BC V8V 3G6",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.28
-59170282,"929 Burdett Ave, Victoria, BC V8V 3G6",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.29
+59170282,"929 Burdett Ave, Victoria, BC V8V 3G6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.33
 59170282,"929 Burdett Ave, Victoria, BC V8V 3G6",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.33
-59170285,"1027 Collinson St, Victoria, BC V8V 3B9",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.7
+59170285,"1027 Collinson St, Victoria, BC V8V 3B9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.36
+59170286,"1030 Pendergast St, Victoria, BC V8V 2X2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.23
+59170286,"1030 Pendergast St, Victoria, BC V8V 2X2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.34
+59170286,"1030 Pendergast St, Victoria, BC V8V 2X2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.4
 59170286,"1030 Pendergast St, Victoria, BC V8V 2X2",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.44
-59170286,"1030 Pendergast St, Victoria, BC V8V 2X2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.5
-59170286,"1038 Harling Ln, Victoria, BC V8V 3T6",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.54
+59170286,"1038 Harling Ln, Victoria, BC V8V 3T6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.22
+59170286,"1038 Harling Ln, Victoria, BC V8V 3T6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.48
 59170287,"419 Chester Ave, Victoria, BC V8V 4B9",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.38
+59170287,"419 Chester Ave, Victoria, BC V8V 4B9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.46
+59170287,"419 Chester Ave, Victoria, BC V8V 4B9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.48
 59170288,"1255 Oscar St, Victoria, BC V8V 2X6",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.37
-59170288,"1255 Oscar St, Victoria, BC V8V 2X6",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.47
+59170288,"1255 Oscar St, Victoria, BC V8V 2X6",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.42
 59170288,"354 Chester Ave, Victoria, BC V8V 4B6",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.27
-59170288,"354 Chester Ave, Victoria, BC V8V 4B6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.5
-59170289,"535 Su'it St, Victoria, BC V8V 4C3",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.61
-59170290,"1017 Oliphant Ave, Victoria, BC V8V 2T9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.27
+59170288,"354 Chester Ave, Victoria, BC V8V 4B6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.36
+59170288,"354 Chester Ave, Victoria, BC V8V 4B6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.49
+59170289,"535 Su'it St, Victoria, BC V8V 4C3",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.59
+59170290,"1017 Oliphant Ave, Victoria, BC V8V 2T9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.13
+59170290,"1017 Oliphant Ave, Victoria, BC V8V 2T9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.22
 59170290,"1017 Oliphant Ave, Victoria, BC V8V 2T9",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.33
+59170290,"1017 Oliphant Ave, Victoria, BC V8V 2T9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.37
 59170290,"1147 Oxford St, Victoria, BC V8V 2V2",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.11
-59170290,"1147 Oxford St, Victoria, BC V8V 2V2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.33
+59170290,"1147 Oxford St, Victoria, BC V8V 2V2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.21
+59170290,"1147 Oxford St, Victoria, BC V8V 2V2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.44
 59170291,"1236 Chapman St, Victoria, BC V8V 2T8",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.19
-59170291,"1236 Chapman St, Victoria, BC V8V 2T8",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.42
-59170291,"1236 Chapman St, Victoria, BC V8V 2T8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.49
+59170291,"1236 Chapman St, Victoria, BC V8V 2T8",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.42
+59170291,"1236 Chapman St, Victoria, BC V8V 2T8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.44
 59170291,"135 Howe St, Victoria, BC V8V 4K5",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.34
-59170291,"135 Howe St, Victoria, BC V8V 4K5",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.38
 59170291,"135 Howe St, Victoria, BC V8V 4K5",Bushby Park,"160 Bushby St, Victoria, BC V8S 3H8",0.41
-59170291,"135 Howe St, Victoria, BC V8V 4K5",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.45
+59170291,"135 Howe St, Victoria, BC V8V 4K5",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.43
 59170291,"135 Howe St, Victoria, BC V8V 4K5",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.46
-59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.2
+59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.25
+59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.33
 59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.37
 59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.44
-59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.48
+59170292,"1125 Faithful St, Victoria, BC V8V 2R5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.46
 59170292,"127 Cambridge St, Victoria, BC V8V 4B1",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.22
-59170292,"127 Cambridge St, Victoria, BC V8V 4B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.24
+59170292,"127 Cambridge St, Victoria, BC V8V 4B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.3
+59170292,"127 Cambridge St, Victoria, BC V8V 4B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.41
 59170292,"127 Cambridge St, Victoria, BC V8V 4B1",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.48
+59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.25
 59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.28
-59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.33
-59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.35
 59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.45
+59170292,"45 Cambridge St, Victoria, BC V8V 4A7",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.47
+59170293,"19 Marlborough St, Victoria, BC V8V 4A5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.15
 59170293,"19 Marlborough St, Victoria, BC V8V 4A5",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.31
-59170293,"19 Marlborough St, Victoria, BC V8V 4A5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.35
-59170293,"19 Marlborough St, Victoria, BC V8V 4A5",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.37
+59170293,"19 Marlborough St, Victoria, BC V8V 4A5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.5
 59170293,"41 Wellington Ave, Victoria, BC V8V 4H5",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.17
-59170293,"41 Wellington Ave, Victoria, BC V8V 4H5",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.18
-59170294,"1321 George St, Victoria, BC V8S 1A8",Clover Point Park,"1250 Dallas Rd, Victoria, BC V8V 1C4",0.21
+59170293,"41 Wellington Ave, Victoria, BC V8V 4H5",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.4
 59170294,"1321 George St, Victoria, BC V8S 1A8",Holland Point Park,"561 Dallas Rd, Victoria, BC V8V 1B2",0.26
 59170294,"1321 George St, Victoria, BC V8S 1A8",Bushby Park,"160 Bushby St, Victoria, BC V8S 3H8",0.36
 59170294,"188 Bushby St, Victoria, BC V8S 1B6",Bushby Park,"160 Bushby St, Victoria, BC V8S 3H8",0.07
-59170294,"188 Bushby St, Victoria, BC V8S 1B6",Moss Rock Park,"Moss Rock Park, May Street & Memorial Crescent, Victoria, BC V8S 3J6",0.19
-59170295,"1025 Sutlej St, Victoria, BC V8V 2V9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.35
+59170294,"188 Bushby St, Victoria, BC V8S 1B6",Moss Rock Park,"310 Masters Rd, Victoria, BC V8S 1E1",0.27
+59170295,"1025 Sutlej St, Victoria, BC V8V 2V9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.21
+59170295,"1025 Sutlej St, Victoria, BC V8V 2V9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.25
+59170295,"1025 Sutlej St, Victoria, BC V8V 2V9",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.29
 59170295,"1025 Sutlej St, Victoria, BC V8V 2V9",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.38
-59170295,"216 Vancouver St, Victoria, BC V8V 3S8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.27
+59170295,"216 Vancouver St, Victoria, BC V8V 3S8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.09
+59170295,"216 Vancouver St, Victoria, BC V8V 3S8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.19
+59170295,"216 Vancouver St, Victoria, BC V8V 3S8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.38
 59170295,"216 Vancouver St, Victoria, BC V8V 3S8",Chapman Park,"1208 Chapman St, Victoria, BC V8V 2T8",0.44
+59170296,"235 St Andrews St, Victoria, BC V8V 2N1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.09
 59170296,"235 St Andrews St, Victoria, BC V8V 2N1",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.49
+59170296,"620 Avalon Rd, Victoria, BC V8V 1N7",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.22
 59170296,"620 Avalon Rd, Victoria, BC V8V 1N7",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.4
+59170296,"620 Avalon Rd, Victoria, BC V8V 1N7",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.47
 59170297,"427 Government St, Victoria, BC V8V 2L4",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.34
+59170297,"427 Government St, Victoria, BC V8V 2L4",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.35
+59170297,"427 Government St, Victoria, BC V8V 2L4",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.37
 59170297,"427 Government St, Victoria, BC V8V 2L4",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.39
 59170297,"427 Government St, Victoria, BC V8V 2L4",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.47
-59170298,"425 Quebec St, Victoria, BC V8V 1W7",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.09
-59170298,"425 Quebec St, Victoria, BC V8V 1W7",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.14
-59170298,"425 Quebec St, Victoria, BC V8V 1W7",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.14
 59170298,"425 Quebec St, Victoria, BC V8V 1W7",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.3
 59170298,"425 Quebec St, Victoria, BC V8V 1W7",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.33
 59170298,"425 Quebec St, Victoria, BC V8V 1W7",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.37
 59170298,"425 Quebec St, Victoria, BC V8V 1W7",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.47
 59170298,"431 Powell St, Victoria, BC V8V 2J3",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.2
+59170298,"431 Powell St, Victoria, BC V8V 2J3",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.42
 59170298,"431 Powell St, Victoria, BC V8V 2J3",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.46
+59170298,"431 Powell St, Victoria, BC V8V 2J3",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.47
 59170298,"431 Powell St, Victoria, BC V8V 2J3",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.47
 59170298,"617 Government St, Victoria, BC V8V 1X6",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.16
 59170298,"617 Government St, Victoria, BC V8V 1X6",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.21
-59170298,"617 Government St, Victoria, BC V8V 1X6",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.38
-59170298,"617 Government St, Victoria, BC V8V 1X6",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.38
+59170298,"617 Government St, Victoria, BC V8V 1X6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.23
 59170298,"617 Government St, Victoria, BC V8V 1X6",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.42
-59170298,"617 Government St, Victoria, BC V8V 1X6",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.45
 59170299,"215 Government St, Victoria, BC V8V 2K8",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.19
 59170299,"215 Government St, Victoria, BC V8V 2K8",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.21
-59170299,"215 Government St, Victoria, BC V8V 2K8",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.37
-59170299,"215 Government St, Victoria, BC V8V 2K8",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.37
+59170299,"215 Government St, Victoria, BC V8V 2K8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.26
 59170299,"215 Government St, Victoria, BC V8V 2K8",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.4
-59170299,"215 Government St, Victoria, BC V8V 2K8",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.43
+59170299,"575 Marifield Ave, Victoria, BC V8V 1N3",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.29
 59170299,"575 Marifield Ave, Victoria, BC V8V 1N3",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.29
 59170300,"136 S Turner St, Victoria, BC V8V 2J8",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.36
+59170300,"136 S Turner St, Victoria, BC V8V 2J8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.37
 59170300,"136 S Turner St, Victoria, BC V8V 2J8",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.38
 59170301,"540 Rithet St, Victoria, BC V8V 1E2",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.21
 59170301,"540 Rithet St, Victoria, BC V8V 1E2",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.49
 59170302,"40 Government St, Victoria, BC V8V 2K3",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.19
 59170302,"40 Government St, Victoria, BC V8V 2K3",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.21
-59170302,"40 Government St, Victoria, BC V8V 2K3",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.37
-59170302,"40 Government St, Victoria, BC V8V 2K3",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.37
+59170302,"40 Government St, Victoria, BC V8V 2K3",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.26
 59170302,"40 Government St, Victoria, BC V8V 2K3",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.4
-59170302,"40 Government St, Victoria, BC V8V 2K3",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.43
 59170302,"548 Dallas Rd, Victoria, BC V8V 1B3",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.27
 59170303,"416 Luxton Ave, Victoria, BC V8V 1C9",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.09
 59170303,"416 Luxton Ave, Victoria, BC V8V 1C9",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.48
@@ -399,145 +416,105 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170305,"345 St James St, Victoria, BC V8V 1J7",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.31
 59170305,"345 St James St, Victoria, BC V8V 1J7",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.33
 59170305,"345 St James St, Victoria, BC V8V 1J7",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.35
-59170305,"345 St James St, Victoria, BC V8V 1J7",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.44
 59170305,"345 St James St, Victoria, BC V8V 1J7",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.5
 59170308,"443 Superior St, Victoria, BC V8V 4S7",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.2
 59170308,"443 Superior St, Victoria, BC V8V 4S7",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.23
-59170308,"443 Superior St, Victoria, BC V8V 4S7",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.25
-59170308,"443 Superior St, Victoria, BC V8V 4S7",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.34
-59170308,"443 Superior St, Victoria, BC V8V 4S7",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.34
 59170308,"443 Superior St, Victoria, BC V8V 4S7",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.48
 59170309,"242 Ontario St, Victoria, BC V8V 1N2",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.12
-59170309,"242 Ontario St, Victoria, BC V8V 1N2",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.34
 59170309,"242 Ontario St, Victoria, BC V8V 1N2",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.39
-59170309,"242 Ontario St, Victoria, BC V8V 1N2",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.41
 59170310,"121 Michigan St, Victoria, BC V8V 1R2",Fisherman's Wharf Park,"12 Erie St, Victoria, BC V8V 0B2",0.31
 59170310,"121 Michigan St, Victoria, BC V8V 1R2",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.33
-59170310,"121 Michigan St, Victoria, BC V8V 1R2",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.34
 59170310,"121 Michigan St, Victoria, BC V8V 1R2",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.37
-59170311,"506 Pendray St, Victoria, BC V8V 0A9",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.22
 59170311,"506 Pendray St, Victoria, BC V8V 0A9",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.26
-59170311,"506 Pendray St, Victoria, BC V8V 0A9",Peter Pollen Waterfront Park,"Inner-Harbour Pathway, Victoria, BC V8V 1Z8",0.32
-59170311,"506 Pendray St, Victoria, BC V8V 0A9",Centennial Park,"210 Belleville St., Victoria, BC V8V 4T9",0.33
-59170311,"506 Pendray St, Victoria, BC V8V 0A9",Belleville Street Greens,"220 Belleville St., Victoria, BC V8V 4T9",0.33
 59170312,"111 Niagara St, Victoria, BC V8V 1G1",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.02
-59170312,"111 Niagara St, Victoria, BC V8V 1G1",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.08
 59170312,"22 Simcoe St, Victoria, BC V8V 1K2",Fisherman's Wharf Park,"12 Erie St, Victoria, BC V8V 0B2",0.23
 59170312,"22 Simcoe St, Victoria, BC V8V 1K2",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.32
-59170312,"22 Simcoe St, Victoria, BC V8V 1K2",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.34
-59170313,"130 Ladysmith St, Victoria, BC V8V 1J4",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.12
 59170313,"130 Ladysmith St, Victoria, BC V8V 1J4",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.14
 59170313,"130 Ladysmith St, Victoria, BC V8V 1J4",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.41
 59170313,"130 Ladysmith St, Victoria, BC V8V 1J4",Fisherman's Wharf Park,"12 Erie St, Victoria, BC V8V 0B2",0.44
-59170313,"46 Pilot St, Victoria, BC V8V 2A4",Todd park,"Block,, 100 Niagara St, Victoria, BC V8V 1E9",0.24
 59170313,"46 Pilot St, Victoria, BC V8V 2A4",MacDonald Park,"212 Niagara St, Victoria, BC V8V 1G3",0.27
 59170313,"46 Pilot St, Victoria, BC V8V 2A4",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.46
 59170371,"831 Walker St, Victoria, BC V9A 4C3",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.3
 59170371,"831 Walker St, Victoria, BC V9A 4C3",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.36
 59170371,"949 Hereward Rd, Victoria, BC V9A 4E1",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.41
 59170372,"637 Pine St, Victoria, BC V9A 2Z9",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.15
-59170372,"637 Pine St, Victoria, BC V9A 2Z9",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.47
 59170372,"723 Belton Ave, Victoria, BC V9A 2Z7",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.24
-59170372,"723 Belton Ave, Victoria, BC V9A 2Z7",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.43
 59170373,"639 Langford St, Victoria, BC V9A 3C8",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.34
 59170373,"639 Langford St, Victoria, BC V9A 3C8",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.35
 59170373,"824 Russell St, Victoria, BC V9A 3X7",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.21
-59170373,"824 Russell St, Victoria, BC V9A 3X7",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.43
 59170373,"824 Russell St, Victoria, BC V9A 3X7",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.45
 59170375,"822 Catherine St, Victoria, BC V9A 3C2",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.29
-59170375,"822 Catherine St, Victoria, BC V9A 3C2",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.3
 59170375,"822 Catherine St, Victoria, BC V9A 3C2",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.41
 59170376,"442 William St, Victoria, BC V9A 3Y9",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.16
-59170376,"442 William St, Victoria, BC V9A 3Y9",Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.25
 59170376,"442 William St, Victoria, BC V9A 3Y9",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.29
 59170376,"442 William St, Victoria, BC V9A 3Y9",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.47
-59170378,"230 Robert St, Victoria, BC V9A 3Z2",Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.03
 59170378,"230 Robert St, Victoria, BC V9A 3Z2",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.35
 59170378,"230 Robert St, Victoria, BC V9A 3Z2",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.41
 59170378,"707 Esquimalt Rd, Victoria, BC V9A 3L7",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.06
-59170378,"707 Esquimalt Rd, Victoria, BC V9A 3L7",Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.3
 59170378,"707 Esquimalt Rd, Victoria, BC V9A 3L7",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.39
-59170383,"2519 Rock Bay Ave, Victoria, BC V8T 4R7",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.66
+59170383,"2519 Rock Bay Ave, Victoria, BC V8T 4R7",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.68
 59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Selkirk Green Park,"350 Waterfront Crescent, Victoria, BC V8T 5K3",0.09
-59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.3
 59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.44
 59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.49
-59170383,"David St, Victoria, BC V8T 2C6",Jackalope Meadow,"1245 Summit Ave, Victoria, BC V8T 2P9",0.47
 59170383,"David St, Victoria, BC V8T 2C6",Summit Park,"1245 Summit Ave, Victoria, BC V8T 2P9",0.47
 59170383,"David St, Victoria, BC V8T 2C6",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.5
 59170384,"610 Dunedin St, Victoria, BC V8T 2L8",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.1
-59170384,"610 Dunedin St, Victoria, BC V8T 2L8",Jackalope Meadow,"1245 Summit Ave, Victoria, BC V8T 2P9",0.29
 59170384,"610 Dunedin St, Victoria, BC V8T 2L8",Summit Park,"1245 Summit Ave, Victoria, BC V8T 2P9",0.29
 59170385,"3121 Steele St, Victoria, BC V8Z 3N7",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.37
-59170385,"3121 Steele St, Victoria, BC V8Z 3N7",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.47
 59170385,"550 Sumas St, Victoria, BC V8T 4S3",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.05
-59170385,"550 Sumas St, Victoria, BC V8T 4S3",Jackalope Meadow,"1245 Summit Ave, Victoria, BC V8T 2P9",0.32
 59170385,"550 Sumas St, Victoria, BC V8T 4S3",Summit Park,"1245 Summit Ave, Victoria, BC V8T 2P9",0.32
-59170385,"550 Sumas St, Victoria, BC V8T 4S3",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.48
 59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.08
-59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.12
 59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.42
-59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.44
 59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Selkirk Green Park,"350 Waterfront Crescent, Victoria, BC V8T 5K3",0.44
-59170386,"491 Cecelia Rd, Victoria, BC V8T 4T4",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.19
+59170386,"254 Gorge Rd E, Victoria, BC V9A 6W4",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.49
 59170386,"491 Cecelia Rd, Victoria, BC V8T 4T4",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.31
 59170386,"491 Cecelia Rd, Victoria, BC V8T 4T4",Sumas Park,"530 Sumas St, Victoria, BC V8T 4S3",0.34
 59170386,"491 Cecelia Rd, Victoria, BC V8T 4T4",Selkirk Green Park,"350 Waterfront Crescent, Victoria, BC V8T 5K3",0.42
 59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.0
-59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.2
-59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.37
 59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.37
+59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.41
 59170387,"3052D Washington Ave, Victoria, BC V9A 1P6",Selkirk Green Park,"350 Waterfront Crescent, Victoria, BC V8T 5K3",0.5
 59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.0
-59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.2
-59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.37
 59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.37
+59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.41
 59170387,"3134 Washington Ave, Victoria, BC V9A 1P7",Selkirk Green Park,"350 Waterfront Crescent, Victoria, BC V8T 5K3",0.5
-59170388,"3052 Albany St, Victoria, BC V9A 1R5",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.15
+59170388,"3052 Albany St, Victoria, BC V9A 1R5",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.17
 59170388,"3052 Albany St, Victoria, BC V9A 1R5",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.25
 59170388,"3052 Albany St, Victoria, BC V9A 1R5",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.4
-59170388,"3052 Albany St, Victoria, BC V9A 1R5",Tom Arkell Trail,"Galloping Goose Trail, Victoria, BC V9A 6W5",0.42
 59170388,"3165 Balfour Ave, Victoria, BC V9A 1R9",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.13
 59170388,"3165 Balfour Ave, Victoria, BC V9A 1R9",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.35
-59170388,"3165 Balfour Ave, Victoria, BC V9A 1R9",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.43
-59170389,"21 Gorge Rd E, Victoria, BC V9A 1K7",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.27
-59170389,"21 Gorge Rd E, Victoria, BC V9A 1K7",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.33
-59170389,"2967 Irma St, Victoria, BC V9A 1S5",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.09
+59170388,"3165 Balfour Ave, Victoria, BC V9A 1R9",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.36
+59170389,"21 Gorge Rd E, Victoria, BC V9A 1K7",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.31
+59170389,"2967 Irma St, Victoria, BC V9A 1S5",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.11
 59170389,"2967 Irma St, Victoria, BC V9A 1S5",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.46
-59170389,"3064 Irma St, Victoria, BC V9A 1S6",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.23
+59170389,"3064 Irma St, Victoria, BC V9A 1S6",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.11
 59170389,"3064 Irma St, Victoria, BC V9A 1S6",Cecelia Ravine Park,"475 Burnside Rd E, Victoria, BC V8T 2X2",0.42
 59170389,"3064 Irma St, Victoria, BC V9A 1S6",Arbutus Park,"2925 Washington Ave, Victoria, BC V9A 1L1",0.44
-59170390,"141 Gorge Rd E, Victoria, BC V9A 6Z3",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.15
-59170390,"141 Gorge Rd E, Victoria, BC V9A 6Z3",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.42
-59170390,"21 Lotus St, Victoria, BC V9A 1P3",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.2
-59170390,"21 Lotus St, Victoria, BC V9A 1P3",Balfour Playlot,"Balfour Pl, Victoria, BC V9A 1R8",0.37
+59170390,"141 Gorge Rd E, Victoria, BC V9A 6Z3",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.22
+59170390,"21 Lotus St, Victoria, BC V9A 1P3",Balfour Playlot,"74 Chown Pl, Victoria, BC V9A 1H5",0.43
 59170390,"21 Lotus St, Victoria, BC V9A 1P3",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.47
-59170554,"29 Paddon Ave, Victoria, BC V8V 2M6",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.58
-59170555,"647 Niagara St, Victoria, BC V8V 1J1",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.56
-59170555,"671 Beacon St, Victoria, BC V8V 1K1",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.62
-59170556,"1002 Carberry Gardens, Victoria, BC V8S 3R7",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.14
-59170556,"1002 Carberry Gardens, Victoria, BC V8S 3R7",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.38
+59170554,"29 Paddon Ave, Victoria, BC V8V 2M6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.2
+59170554,"29 Paddon Ave, Victoria, BC V8V 2M6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.48
+59170555,"647 Niagara St, Victoria, BC V8V 1J1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.28
+59170555,"647 Niagara St, Victoria, BC V8V 1J1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.36
+59170555,"671 Beacon St, Victoria, BC V8V 1K1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.25
+59170555,"671 Beacon St, Victoria, BC V8V 1K1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.32
+59170556,"1002 Carberry Gardens, Victoria, BC V8S 3R7",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.22
 59170556,"1002 Carberry Gardens, Victoria, BC V8S 3R7",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.44
 59170556,"744 Pemberton Rd, Victoria, BC V8S 3R4",The Terrace,"1401 Rockland Ave, Victoria, BC V8S 1V9",0.31
-59170556,"744 Pemberton Rd, Victoria, BC V8S 3R4",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.41
-59170557,"1475 Fort St, Victoria, BC V8S 1Z4",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.14
+59170556,"744 Pemberton Rd, Victoria, BC V8S 3R4",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.32
 59170557,"1475 Fort St, Victoria, BC V8S 1Z4",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.22
-59170557,"1475 Fort St, Victoria, BC V8S 1Z4",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.34
 59170557,"1475 Fort St, Victoria, BC V8S 1Z4",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.37
-59170557,"905 Pemberton Rd, Victoria, BC V8S 3R5",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.31
-59170557,"905 Pemberton Rd, Victoria, BC V8S 3R5",Rockland Woodland Garden,"Joan, Craigdarroch Rd, Victoria, BC V8S 3L3",0.32
+59170557,"1475 Fort St, Victoria, BC V8S 1Z4",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.47
+59170557,"905 Pemberton Rd, Victoria, BC V8S 3R5",Rockland Woodland Garden,"1059 Craigdarroch Rd, Victoria, BC V8S 2A5",0.36
 59170557,"905 Pemberton Rd, Victoria, BC V8S 3R5",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.4
 59170557,"905 Pemberton Rd, Victoria, BC V8S 3R5",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.41
 59170558,"1550 Shasta Pl, Victoria, BC V8S 1X9",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.27
-59170558,"1550 Shasta Pl, Victoria, BC V8S 1X9",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.45
-59170598,"1746 Adanac St, Victoria, BC V8R 2C5",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.47
+59170598,"1746 Adanac St, Victoria, BC V8R 2C5",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.51
 59170600,"1735 Denman St, Victoria, BC V8R 1Y3",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.42
 59170600,"1735 Denman St, Victoria, BC V8R 1Y3",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.42
-59170600,"1735 Denman St, Victoria, BC V8R 1Y3",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.45
-59170600,"1735 Denman St, Victoria, BC V8R 1Y3",Redfern Park,"Leighton Rd, Victoria, BC V8R 4W7",0.47
 59170601,"1626 Gladstone Ave, Victoria, BC V8R 1S7",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.17
 59170601,"1626 Gladstone Ave, Victoria, BC V8R 1S7",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.3
-59170601,"1626 Gladstone Ave, Victoria, BC V8R 1S7",Agamemnon and Eleni Kasapi Park,"1850 Leighton Rd, Victoria, BC V8R",0.49
 59170601,"2206 Lydia St, Victoria, BC V8R 4K5",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.19
 59170601,"2206 Lydia St, Victoria, BC V8R 4K5",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.32
 59170601,"2320 Shakespeare St, Victoria, BC V8R 4G3",David Spencer Park,"2760 Victor St, Victoria, BC V8R 4E4",0.1
@@ -545,51 +522,39 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170610,"440 Simcoe St, Victoria, BC V8V 1L3",Irving Park,"250 Menzies St, Victoria, BC V8V 2G7",0.18
 59170610,"440 Simcoe St, Victoria, BC V8V 1L3",Michigan Street Playground,"677 Michigan St, Victoria, BC V8V 1S9",0.3
 59170610,"440 Simcoe St, Victoria, BC V8V 1L3",Lewis Street Park,"32 Lewis St, Victoria, BC V8V 2E8",0.39
-59170610,"440 Simcoe St, Victoria, BC V8V 1L3",Charles Redfern Park,"200 Quebec St, Victoria, BC V8V 1W2",0.46
+59170611,"840 Humboldt St, Victoria, BC V8V 5B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.25
 59170611,"840 Humboldt St, Victoria, BC V8V 5B1",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.34
-59170611,"840 Humboldt St, Victoria, BC V8V 5B1",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.46
-59170611,"950 Humboldt St, Victoria, BC V8V 2Z8",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.55
+59170611,"840 Humboldt St, Victoria, BC V8V 5B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.36
+59170611,"950 Humboldt St, Victoria, BC V8V 2Z8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.18
+59170611,"950 Humboldt St, Victoria, BC V8V 2Z8",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.43
 59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",Stadacona Park,"1490 Pandora Ave, Victoria, BC V8R 6P9",0.22
 59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",Fern Street Park,"1815 Fern St, Victoria, BC V8R 1L4",0.26
-59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",Scurrah Green,"1580 Fort St, Victoria, BC V8S 5J2",0.26
 59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",Terrace Park,"1002 Terrace Ave, Victoria, BC V8S 3V2",0.41
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.0
-59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.38
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.41
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.43
-59170723,"103 Tyee Rd, Victoria, BC",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.11
-59170723,"103 Tyee Rd, Victoria, BC",Galloping Goose Trail,"395 Harbour Rd, Victoria, BC V9A 3S2",0.4
 59170723,"103 Tyee Rd, Victoria, BC",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.48
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.22
-59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Wark Street Park,"Wark St, Victoria, BC V8T 1W7",0.38
-59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.48
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.18
-59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.21
+59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.25
+59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.31
+59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.47
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.48
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.17
+59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.2
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.3
-59170814,"755 Humboldt St, Victoria, BC V8W 1B1",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.39
-59170814,"850 Blanshard St, Victoria, BC V8W 2H2",The Fort Common,"1017 Blanshard St, Victoria, BC V8W 2H4",0.18
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.39
+59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.4
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.47
-59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.24
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.37
-59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Burleith Park,"570 Selkirk Ave, Victoria, BC V9A 2T5",0.08
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.28
-59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.1
-59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Galloping Goose Trail,"395 Harbour Rd, Victoria, BC V9A 3S2",0.4
 59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.5
 59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Saghalie Park,"130 Esquimalt Rd, Victoria, BC V9A 3K9",0.12
 59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Songhees Hillside Park,"40 Saghalie Rd, Victoria, BC V9A 6Z6",0.13
-59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Songhees Park,"Songhees Walkway, Victoria, BC V9A 0G1",0.26
 59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.38
-59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Peter Pollen Waterfront Park,"Inner-Harbour Pathway, Victoria, BC V8V 1Z8",0.5
-59170819,"70 Saghalie Rd, Victoria, BC V9A 0B8",Galloping Goose Trail,"395 Harbour Rd, Victoria, BC V9A 3S2",0.5
 59170820,"231 Russell St, Victoria, BC V9A 3X1",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.22
-59170820,"231 Russell St, Victoria, BC V9A 3X1",Regatta Point Park,"1 Regatta Landing, Victoria, BC V9A 7R3",0.42
 59170820,"231 Russell St, Victoria, BC V9A 3X1",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.46
 59170820,"231 Russell St, Victoria, BC V9A 3X1",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.5
-59170820,"310 Robert St, Victoria, BC V9A 3Z4",Rainbow Park,"201 Robert St, Victoria, BC V9A 3X1",0.1
 59170820,"310 Robert St, Victoria, BC V9A 3Z4",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.29
 59170820,"310 Robert St, Victoria, BC V9A 3Z4",Triangle Park,"150 Wilson St, Victoria, BC V9A 6X1",0.3
 59170820,"310 Robert St, Victoria, BC V9A 3Z4",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.49

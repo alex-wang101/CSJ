@@ -29,6 +29,7 @@ DAUID,Target_name,Target_address,Distance (km)
 59170144,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.33
 59170145,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.57
 59170146,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.32
+59170147,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.38
 59170148,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.44
 59170149,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.42
 59170150,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.64
@@ -39,16 +40,19 @@ DAUID,Target_name,Target_address,Distance (km)
 59170155,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.37
 59170156,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.67
 59170157,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.67
+59170161,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.07
 59170162,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.23
 59170162,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.44
 59170163,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.41
 59170164,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.2
 59170164,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.41
 59170165,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.13
+59170166,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.14
+59170166,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.36
 59170167,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.13
 59170167,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.32
-59170168,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.22
-59170168,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.33
+59170168,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.21
+59170168,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.34
 59170169,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.41
 59170169,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.45
 59170170,Victoria Professional Building,"1120 Yates St, Victoria, BC V8V 3M9",0.3
@@ -151,10 +155,17 @@ DAUID,Target_name,Target_address,Distance (km)
 59170612,Care2Talk Health | Private Primary Care Clinic (Victoria),"1918 Oak Bay Ave, Victoria, BC V8R 0B1",0.33
 59170722,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",1.23
 59170723,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",1.03
+59170805,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.78
+59170805,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.73
 59170806,Quadra Village Medical Clinic,"2631 Quadra St, Victoria, BC V8T 4E3",0.69
+59170807,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.63
 59170808,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.45
+59170809,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.44
+59170810,Fernwood Maternity Medical Center,"1711 Cook St #301, Victoria, BC V8T 3P2",0.55
+59170811,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.18
 59170814,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.37
+59170815,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",0.47
 59170816,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",0.62
-59170817,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",1.03
+59170817,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",1.02
 59170819,Yarrow Medical,"645 Fort St #104, Victoria, BC V8W 1G2",1.05
 59170820,Gorge Urgent and Primary Care Centre,"63 Gorge Rd E, Victoria, BC V9A 1L2",1.26

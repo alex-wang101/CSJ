@@ -43,6 +43,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",downtown,NA,0.62
 59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",downtown,NA,0.63
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",downtown,NA,0.76
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",downtown,NA,0.59
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",downtown,NA,0.41
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",downtown,NA,0.51
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",downtown,NA,0.58
@@ -59,6 +60,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",downtown,NA,1.64
 59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",downtown,NA,0.95
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",downtown,NA,1.03
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",downtown,NA,0.89
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",downtown,NA,0.21
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",downtown,NA,0.47
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",downtown,NA,0.45
@@ -73,11 +75,15 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",downtown,NA,0.41
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",downtown,NA,0.45
 59170165,"1144 View St, Victoria, BC V8V 3M1",downtown,NA,0.24
-59170165,"1144 View St, Victoria, BC V8V 3M1",downtown,NA,0.36
+59170165,"1144 View St, Victoria, BC V8V 3M1",downtown,NA,0.35
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.15
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.41
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",downtown,NA,0.29
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",downtown,NA,0.4
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",downtown,NA,0.16
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",downtown,NA,0.33
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.15
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.41
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.16
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",downtown,NA,0.39
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",downtown,NA,0.37
 59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",downtown,NA,0.53
 59170170,"1215 Johnson St, Victoria, BC V8V 3N9",downtown,NA,0.29
@@ -258,8 +264,30 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",downtown,NA,1.18
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",downtown,NA,1.23
 59170723,"103 Tyee Rd, Victoria, BC",downtown,NA,0.92
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",downtown,NA,0.3
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",downtown,NA,0.37
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",downtown,NA,0.09
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",downtown,NA,0.16
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",downtown,NA,0.37
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",downtown,NA,0.24
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",downtown,NA,0.24
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",downtown,NA,0.3
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",downtown,NA,0.38
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",downtown,NA,0.38
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",downtown,NA,0.26
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",downtown,NA,0.39
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",downtown,NA,0.47
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",downtown,NA,0.08
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",downtown,NA,0.32
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",downtown,NA,0.38
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",downtown,NA,0.44
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",downtown,NA,0.44
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",downtown,NA,0.2
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",downtown,NA,0.35
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",downtown,NA,0.47
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",downtown,NA,0.16
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",downtown,NA,0.27
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",downtown,NA,0.49
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",downtown,NA,0.26
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",downtown,NA,0.28
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",downtown,NA,0.37
@@ -271,6 +299,9 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",downtown,NA,0.44
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",downtown,NA,0.44
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",downtown,NA,0.46
+59170815,"831 Yates St, Victoria, BC V8W 1M1",downtown,NA,0.22
+59170815,"831 Yates St, Victoria, BC V8W 1M1",downtown,NA,0.25
+59170815,"831 Yates St, Victoria, BC V8W 1M1",downtown,NA,0.43
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",downtown,NA,1.22
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",downtown,NA,1.83
 59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",downtown,NA,0.9

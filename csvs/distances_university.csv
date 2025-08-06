@@ -40,12 +40,13 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.92
 59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.0
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.2
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.06
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.9
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.0
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.07
 59170149,"2620 Dowler Pl, Victoria, BC V8T 4H8",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.81
 59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.33
-59170150,"723 Field St, Victoria, BC V8T 1N7",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.84
+59170150,"723 Field St, Victoria, BC V8T 1N7",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.85
 59170151,"932 Market St, Victoria, BC V8T 2E9",Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.52
 59170152,"272 Fifth St, Victoria, BC V8T 4E8",Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.19
 59170152,"2735 Fifth St, Victoria, BC V8T 4B1",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.58
@@ -56,6 +57,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.84
 59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.33
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",1.39
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",1.38
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.59
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.67
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.26
@@ -64,6 +66,8 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.5
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.47
 59170165,"1144 View St, Victoria, BC V8V 3M1",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.73
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.7
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.82
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.75
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.93
 59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.7
@@ -223,8 +227,52 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170612,"1528 Coldharbour Rd, Victoria, BC V8R 1H5",Canadian College of the Performing Arts,"1701 Elgin Rd, Victoria, BC V8R 5L5",1.35
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.5
 59170723,"103 Tyee Rd, Victoria, BC",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.28
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.69
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.33
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.73
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.36
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.39
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.44
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.46
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Collège Éducacentre,"1218 Langley St, Victoria, BC V8W 1W2",0.5
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.7
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.13
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.24
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.25
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.34
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.36
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Collège Éducacentre,"1218 Langley St, Victoria, BC V8W 1W2",0.39
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Sprott Shaw Victoria College Campus,"103 - 31 Bastion Square, Victoria, BC V8W 1J1",0.4
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Sprott Shaw College,"31 Bastion Square, Victoria, BC V8W 1J1",0.46
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.5
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.23
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.28
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.45
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.01
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.1
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.16
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.25
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Sprott Shaw Victoria College Campus,"103 - 31 Bastion Square, Victoria, BC V8W 1J1",0.27
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Collège Éducacentre,"1218 Langley St, Victoria, BC V8W 1W2",0.29
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.33
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Sprott Shaw College,"31 Bastion Square, Victoria, BC V8W 1J1",0.33
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.37
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.39
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Sprott Shaw College,"31 Bastion Square, Victoria, BC V8W 1J1",0.09
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Sprott Shaw Victoria College Campus,"103 - 31 Bastion Square, Victoria, BC V8W 1J1",0.1
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.11
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Collège Éducacentre,"1218 Langley St, Victoria, BC V8W 1W2",0.15
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.29
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.32
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",0.33
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.47
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.17
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.27
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Sprott Shaw Victoria College Campus,"103 - 31 Bastion Square, Victoria, BC V8W 1J1",0.33
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Sprott Shaw College,"31 Bastion Square, Victoria, BC V8W 1J1",0.34
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.36
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Collège Éducacentre,"1218 Langley St, Victoria, BC V8W 1W2",0.39
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.43
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.41
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.44
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.44
@@ -234,6 +282,11 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Inlingua Victoria College of Languages Careers Co-Ops and IELTS/CELPIP TEST Centre,"910 Government St, Victoria, BC V8W 1X3",0.43
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.46
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.47
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Bermand College ,"1321 Blanshard Street, Victoria, BC V8W 2H6",0.09
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Vancouver Island School of Art,"733 Johnson St #302, Victoria, BC V8W 3C7",0.21
+59170815,"831 Yates St, Victoria, BC V8W 1M1",West Coast College of Massage Therapy - Victoria,"818 Broughton St #100, Victoria, BC V8W 1E4",0.23
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Excel Career College,"1207 Douglas St, Victoria, BC V8W 2E7",0.29
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Cambria College,"210-702 Fort St, Victoria, BC V8W 3L7",0.32
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.58
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Edison College,"3318 Oak St, Victoria, BC V8X 1R1",1.88
 59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Pacific Rim College,"560 Johnson St, Victoria, BC V8W 3C6",1.27

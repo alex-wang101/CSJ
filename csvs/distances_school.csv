@@ -54,6 +54,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.41
 59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.51
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.49
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.66
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.87
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.77
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.7
@@ -77,15 +78,18 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.41
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.26
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.49
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.44
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.59
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.55
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.41
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.42
 59170165,"1144 View St, Victoria, BC V8V 3M1",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.51
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.55
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",École Intermédiaire Central Middle School,"1280 Fort St, Victoria, BC V8V 3L2",0.46
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.41
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.36
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",École Intermédiaire Central Middle School,"1280 Fort St, Victoria, BC V8V 3L2",0.44
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.55
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.56
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.21
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.46
 59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.24
@@ -236,7 +240,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170378,"230 Robert St, Victoria, BC V9A 3Z2",Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.57
 59170378,"707 Esquimalt Rd, Victoria, BC V9A 3L7",Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.48
 59170383,"2519 Rock Bay Ave, Victoria, BC V8T 4R7",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.84
-59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.05
+59170383,"2975 Jutland Rd 1st Flr, Victoria, BC V8T 5J9",Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.06
 59170383,"David St, Victoria, BC V8T 2C6",Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.71
 59170384,"610 Dunedin St, Victoria, BC V8T 2L8",Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.48
 59170385,"3121 Steele St, Victoria, BC V8Z 3N7",Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.62
@@ -274,10 +278,19 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.38
 59170723,"103 Tyee Rd, Victoria, BC",Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.29
 59170723,"103 Tyee Rd, Victoria, BC",Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.49
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",1.05
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",1.27
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.85
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.98
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.61
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.77
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.71
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.64
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.87
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.7
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.56
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.42
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.45
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.14
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.39
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Esquimalt High School,"847 Colville Rd, Victoria, BC V9A 4N9",0.22

@@ -40,6 +40,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170144,"1034 Princess Ave, Victoria, BC V8T 1L1",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.28
 59170145,"2323 Vancouver St, Victoria, BC V8T 4A2",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.28
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.37
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.19
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.95
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.03
 59170148,"2533 Dowler Pl, Victoria, BC V8T 4H7",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.07
@@ -56,14 +57,17 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170156,"1345 Topaz Ave, Victoria, BC V8T 4Z2",Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",2.17
 59170157,"2526 Wesley Pl, Victoria, BC V8T 1V2",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.68
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.68
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.39
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.16
 59170162,"1565 Vancouver St, Victoria, BC V8V 0C8",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.1
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.86
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.07
 59170165,"1144 View St, Victoria, BC V8V 3M1",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.33
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.32
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.42
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.38
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.55
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.32
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.31
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.59
 59170169,"1285 Balmoral Rd, Victoria, BC V8T 1B4",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.76
 59170170,"1215 Johnson St, Victoria, BC V8V 3N9",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",1.42
@@ -245,10 +249,22 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.43
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Mary Street Park,"400 Milne St, Victoria, BC V9A 3X1",0.48
 59170723,"103 Tyee Rd, Victoria, BC",Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.43
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.66
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.23
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.87
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.43
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",1.04
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.47
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.73
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.37
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.06
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Goose Beach,"456 Pandora Ave, Victoria, BC V8W 0E3",0.44
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.47
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.29
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.32
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.36
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Peter Pollen Waterfront Park,"200 Belleville St., Victoria, BC V8V 1W9",0.52
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Greater Victoria Harbour Authority,"1019 Wharf St #100, Victoria, BC V8W 2Y9",0.66
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Cecelia Cove Park,"335 Waterfront Crescent, Victoria, BC V8T 0A6",0.58
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Banfield Park Dock,"500 B Selkirk Ave, Victoria, BC V9A 2T1",0.08
 59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Victoria Harbour Ferry - Dockside Green,"387 Harbour Rd, Victoria, BC V9A 3S2",0.42

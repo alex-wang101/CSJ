@@ -38,6 +38,7 @@ DAUID,Target_name,Target_address,Distance (km)
 59170144,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.47
 59170145,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.51
 59170146,Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.49
+59170147,Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.66
 59170148,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.78
 59170149,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.69
 59170150,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.88
@@ -53,10 +54,13 @@ DAUID,Target_name,Target_address,Distance (km)
 59170156,Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.44
 59170157,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.41
 59170157,Vancouver Island School of Innovation and Inquiry,"1307 Hillside Ave, Victoria, BC V8T 0A2",0.33
+59170161,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.44
 59170162,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.57
 59170163,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.41
 59170164,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.42
 59170165,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.51
+59170166,Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.55
+59170166,École Intermédiaire Central Middle School,"1280 Fort St, Victoria, BC V8V 3L2",0.46
 59170167,Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.41
 59170168,Victoria High School,"1260 Grant St, Victoria, BC V8T 1C2",0.46
 59170168,École Intermédiaire Central Middle School,"1280 Fort St, Victoria, BC V8V 3L2",0.44
@@ -169,7 +173,7 @@ DAUID,Target_name,Target_address,Distance (km)
 59170376,Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.31
 59170378,Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.52
 59170383,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",0.84
-59170383,Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.38
+59170383,Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.39
 59170384,Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.48
 59170385,Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.55
 59170386,Selkirk Montessori School,"2970 Jutland Rd, Victoria, BC V8T 5K2",0.35
@@ -196,9 +200,16 @@ DAUID,Target_name,Target_address,Distance (km)
 59170722,Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.38
 59170723,Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.29
 59170723,Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.49
+59170805,Sj Willis High School,"2970 Glasgow St, Victoria, BC V8T 5B9",1.05
+59170805,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",1.27
 59170806,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.85
+59170807,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.98
 59170808,George Jay Elementary,"1118 Princess Ave, Victoria, BC V8T 1L3",0.61
+59170809,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.77
+59170810,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.71
+59170811,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.74
 59170814,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.49
+59170815,Christ Church Cathedral School (Main Campus),"912 Vancouver St, Victoria, BC V8V 3V7",0.45
 59170816,Victoria Montessori Preschool,"323 Skinner St, Victoria, BC V9A 3B5",0.14
 59170816,Victoria West Elementary School,"750 Front St, Victoria, BC V9A 3C6",0.39
 59170816,Esquimalt High School,"847 Colville Rd, Victoria, BC V9A 4N9",0.22

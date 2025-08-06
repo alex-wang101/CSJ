@@ -22,6 +22,7 @@ DAUID,Target_name,Target_address,Distance (km)
 59170144,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.29
 59170145,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.23
 59170146,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.12
+59170147,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.29
 59170148,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.49
 59170149,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.5
 59170150,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.74
@@ -32,12 +33,14 @@ DAUID,Target_name,Target_address,Distance (km)
 59170155,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",0.81
 59170156,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",0.6
 59170157,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",0.86
+59170161,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.22
 59170162,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.33
 59170163,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.86
 59170164,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.83
 59170165,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.78
+59170166,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.95
 59170167,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.17
-59170168,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.05
+59170168,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.04
 59170169,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.3
 59170170,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.97
 59170171,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.25
@@ -131,9 +134,15 @@ DAUID,Target_name,Target_address,Distance (km)
 59170612,Royal Jubilee Hospital,"1952 Bay St, Victoria, BC V8R 1J8",0.91
 59170722,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",2.8
 59170723,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",2.67
+59170805,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.72
 59170806,Aberdeen Hospital,"1450 Hillside Ave, Victoria, BC V8T 2B7",1.62
+59170807,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.42
 59170808,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.53
+59170809,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.2
+59170810,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.16
+59170811,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",1.04
 59170814,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.69
+59170815,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",0.89
 59170816,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",3.28
 59170817,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",2.66
 59170819,Mount St. Mary Hospital,"861 Fairfield Rd, Victoria, BC V8V 5A9",2.04

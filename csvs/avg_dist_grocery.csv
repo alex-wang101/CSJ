@@ -28,6 +28,8 @@ DAUID,Target_name,Target_address,Distance (km)
 59170145,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.48
 59170146,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.23
 59170146,Damascus Food Market,"942 Hillside Ave, Victoria, BC V8T 2A1",0.48
+59170147,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.27
+59170147,Damascus Food Market,"942 Hillside Ave, Victoria, BC V8T 2A1",0.49
 59170148,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.35
 59170148,Damascus Food Market,"942 Hillside Ave, Victoria, BC V8T 2A1",0.41
 59170148,Daily Fresh Super Market,"1627 Quadra St, Victoria, BC V8W 2L5",0.49
@@ -51,10 +53,14 @@ DAUID,Target_name,Target_address,Distance (km)
 59170156,Daily Fresh Super Market,"1627 Quadra St, Victoria, BC V8W 2L5",0.66
 59170157,Fernwood General Store,"1308 Gladstone Ave, Victoria, BC V8R 1S1",0.65
 59170157,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.55
+59170161,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.12
+59170161,Damascus Food Market,"942 Hillside Ave, Victoria, BC V8T 2A1",0.13
+59170161,Daily Fresh Super Market,"1627 Quadra St, Victoria, BC V8W 2L5",0.19
 59170162,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.3
 59170163,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.25
 59170164,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.22
 59170165,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.47
+59170166,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.38
 59170167,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.31
 59170168,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.41
 59170169,Fernwood General Store,"1308 Gladstone Ave, Victoria, BC V8R 1S1",0.37
@@ -182,10 +188,17 @@ DAUID,Target_name,Target_address,Distance (km)
 59170612,Urban Grocer,"1625 Fort St, Victoria, BC V8R 1H9",0.15
 59170722,The Market Garden,"810 Catherine St, Victoria, BC V9A 3V1",0.27
 59170723,The Market Garden,"810 Catherine St, Victoria, BC V9A 3V1",0.26
+59170805,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.7
+59170805,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",1.07
 59170806,Fairway Market Quadra Village,"2635 Quadra St, Victoria, BC V8T 4E3",0.59
+59170807,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.7
 59170808,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.5
+59170809,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.61
+59170810,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.35
+59170811,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.9
 59170814,Thrifty Foods,"475 Simcoe St, Victoria, BC V8V 4T4",0.96
 59170814,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.8
+59170815,Save-On-Foods,"1010 Pandora Ave, Victoria, BC V8V 3P5",0.43
 59170816,The Market Garden,"810 Catherine St, Victoria, BC V9A 3V1",0.32
 59170816,Wholesale Club Viewfield Road,"846 Viewfield Rd, Victoria, BC V9A 4V1",0.72
 59170817,The Market Garden,"810 Catherine St, Victoria, BC V9A 3V1",0.3

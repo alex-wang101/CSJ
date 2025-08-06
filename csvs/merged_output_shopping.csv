@@ -23,6 +23,7 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170144,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.89,901691
 59170145,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.67,1070096
 59170146,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.56,992863
+59170147,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.44,1114659
 59170148,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.23,751104
 59170149,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.31,8913936
 59170150,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.19,762385
@@ -35,11 +36,13 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170156,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",1.03,948668
 59170156,Hillside Centre,"1644 Hillside Ave #7, Victoria, BC V8P 4B6",1.05,948668
 59170157,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.98,955186
+59170161,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.43,664723
 59170162,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.98,740379
 59170162,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.82,740379
 59170163,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.64,784258
 59170164,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.84,572359
 59170165,Cook Street Shopping Hub,"325 Cook St, Victoria, BC V8V 3X5",1.12,1139310
+59170166,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",1.15,836456
 59170167,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",1.15,1482694
 59170168,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",1.21,1337071
 59170169,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",1.45,1571427
@@ -154,9 +157,16 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170612,Fairfield Village Shopping Centre,"1516 Fairfield Rd, Victoria, BC V8S 1G1",1.66,1408020
 59170722,Westside Village Shopping Centre,"174 Wilson St, Victoria, BC V9A 7N7",0.54,1046000
 59170723,Westside Village Shopping Centre,"174 Wilson St, Victoria, BC V9A 7N7",0.26,950552
+59170805,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.35,619204
+59170805,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.62,619204
 59170806,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.45,804136
+59170807,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.51,1302777
 59170808,Blanshard Centre,"770 Bay St, Victoria, BC V8T 5E4",0.7,971891
+59170809,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.33,692965
+59170810,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.57,432522
+59170811,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.21,1265739
 59170814,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.46,891064
+59170815,The Bay Centre,"1150 Douglas St, Victoria, BC V8W 3M9",0.43,779350
 59170816,Westside Village Shopping Centre,"174 Wilson St, Victoria, BC V9A 7N7",0.84,1287572
 59170817,Westside Village Shopping Centre,"174 Wilson St, Victoria, BC V9A 7N7",0.26,680343
 59170819,Westside Village Shopping Centre,"174 Wilson St, Victoria, BC V9A 7N7",0.55,1005417

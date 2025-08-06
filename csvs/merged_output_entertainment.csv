@@ -30,11 +30,15 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170144,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.43,901691
 59170144,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.35,901691
 59170144,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.46,901691
-59170144,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.49,901691
+59170144,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.48,901691
 59170145,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.2,1070096
 59170146,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.36,992863
 59170146,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.37,992863
 59170146,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.39,992863
+59170147,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.24,1114659
+59170147,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.3,1114659
+59170147,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.32,1114659
+59170147,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.5,1114659
 59170148,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.17,751104
 59170148,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.34,751104
 59170148,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.24,751104
@@ -47,6 +51,7 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170150,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.33,762385
 59170150,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.41,762385
 59170150,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.42,762385
+59170150,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.5,762385
 59170151,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.3,729644
 59170151,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.38,729644
 59170152,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.58,775374
@@ -58,6 +63,8 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170156,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.77,948668
 59170156,Oaklands Community Centre & Association,"2827 Belmont Ave #1, Victoria, BC V8R 4B2",0.89,948668
 59170157,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.6,955186
+59170161,Quadra Village Neighbourhood Gym,"950 Kings Rd, Victoria, BC V8T 2W6",0.18,664723
+59170161,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.25,664723
 59170162,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.3,740379
 59170162,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.4,740379
 59170162,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.43,740379
@@ -84,8 +91,11 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170165,Wentworth Villa - Architectural Heritage Museum,"1156 Fort St, Victoria, BC V8V 3K8",0.1,1139310
 59170165,Art Gallery of Greater Victoria,"1040 Moss St, Victoria, BC V8V 4P1",0.39,1139310
 59170165,Langham Court Theatre,"805 Langham Ct, Victoria, BC V8V 4J3",0.48,1139310
+59170166,Wentworth Villa - Architectural Heritage Museum,"1156 Fort St, Victoria, BC V8V 3K8",0.28,836456
+59170166,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.5,836456
+59170166,Art Gallery of Greater Victoria,"1040 Moss St, Victoria, BC V8V 4P1",0.43,836456
 59170167,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.49,1482694
-59170168,Wentworth Villa - Architectural Heritage Museum,"1156 Fort St, Victoria, BC V8V 3K8",0.38,1337071
+59170168,Wentworth Villa - Architectural Heritage Museum,"1156 Fort St, Victoria, BC V8V 3K8",0.36,1337071
 59170168,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.5,1337071
 59170169,Wentworth Villa - Architectural Heritage Museum,"1156 Fort St, Victoria, BC V8V 3K8",0.6,1571427
 59170169,Art Gallery of Greater Victoria,"1040 Moss St, Victoria, BC V8V 4P1",0.61,1571427
@@ -250,18 +260,60 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170612,Craigdarroch Castle,"1050 Joan Crescent, Victoria, BC V8S 3L5",0.72,1408020
 59170722,Dino Lab Inc.,"43 & 45 Erie St Unit #100, Victoria, BC V8V 1P8",1.34,1046000
 59170723,Burnside Gorge Community Centre,"471 Cecelia Rd, Victoria, BC V8T 4T4",1.01,950552
+59170805,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.33,619204
+59170805,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.51,619204
+59170805,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.48,619204
 59170806,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.15,804136
 59170806,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.22,804136
 59170806,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.38,804136
 59170806,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.45,804136
 59170806,Quadra Village Community Centre,"901 Kings Rd, Victoria, BC V8T 1W5",0.46,804136
 59170806,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.49,804136
+59170807,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.22,1302777
+59170807,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.23,1302777
+59170807,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.35,1302777
+59170807,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.41,1302777
+59170807,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.41,1302777
+59170807,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.49,1302777
 59170808,Crystal Pool & Fitness Centre,"2275 Quadra St, Victoria, BC V8T 4Z5",0.18,971891
 59170808,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.28,971891
 59170808,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.37,971891
 59170808,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.43,971891
 59170808,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.48,971891
 59170808,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.48,971891
+59170809,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.19,692965
+59170809,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.22,692965
+59170809,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.27,692965
+59170809,Capitol 6 Theatres,"805 Yates St, Victoria, BC V8W 1L8",0.31,692965
+59170809,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.31,692965
+59170809,The Coda,"751 View St, Victoria, BC V8W 1J9",0.32,692965
+59170809,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.41,692965
+59170809,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.44,692965
+59170809,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.49,692965
+59170810,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.05,432522
+59170810,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.12,432522
+59170810,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.16,432522
+59170810,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.17,432522
+59170810,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.22,432522
+59170810,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.29,432522
+59170810,Capitol 6 Theatres,"805 Yates St, Victoria, BC V8W 1L8",0.34,432522
+59170810,Save-On-Foods Memorial Centre,"1925 Blanshard St, Victoria, BC V8T 4J2",0.36,432522
+59170810,The Coda,"751 View St, Victoria, BC V8W 1J9",0.43,432522
+59170811,The Coda,"751 View St, Victoria, BC V8W 1J9",0.33,1265739
+59170811,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.38,1265739
+59170811,Capitol 6 Theatres,"805 Yates St, Victoria, BC V8W 1L8",0.35,1265739
+59170811,Greater Victoria Public Library - Central Branch,"735 Broughton St, Victoria, BC V8W 3H2",0.31,1265739
+59170811,Victoria Bug Zoo,"631 Courtney St, Victoria, BC V8W 1B8",0.21,1265739
+59170811,Royal Theatre,"805 Broughton St, Victoria, BC V8W 1E5",0.34,1265739
+59170811,YMCA-YWCA Downtown,"851 Broughton St, Victoria, BC V8W 1C4",0.45,1265739
+59170811,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.43,1265739
+59170811,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.45,1265739
+59170811,The Maritime Museum of British Columbia,"744 Douglas St, Victoria, BC V8W 2Z7",0.33,1265739
+59170811,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.46,1265739
+59170811,Victoria Conference Centre - Crystal Garden,"713 Douglas St, Victoria, BC V8W 3M6",0.36,1265739
+59170811,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.49,1265739
+59170811,Royal BC Museum,"675 Belleville St., Victoria, BC V8W 9W2",0.36,1265739
+59170811,St. Ann's Academy and Auditorium National Historic Site,"835 Humboldt St, Victoria, BC V8V 4W8",0.5,1265739
 59170814,Victoria Conference Centre - Crystal Garden,"713 Douglas St, Victoria, BC V8W 3M6",0.17,891064
 59170814,The Maritime Museum of British Columbia,"744 Douglas St, Victoria, BC V8W 2Z7",0.18,891064
 59170814,St. Ann's Academy and Auditorium National Historic Site,"835 Humboldt St, Victoria, BC V8V 4W8",0.31,891064
@@ -273,6 +325,18 @@ DAUID,Target_name,Target_address,Distance (km),Residential_TotalGross_Average
 59170814,The Coda,"751 View St, Victoria, BC V8W 1J9",0.38,891064
 59170814,Capitol 6 Theatres,"805 Yates St, Victoria, BC V8W 1L8",0.35,891064
 59170814,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.43,891064
+59170815,Capitol 6 Theatres,"805 Yates St, Victoria, BC V8W 1L8",0.08,779350
+59170815,Cineplex Odeon Victoria Cinemas,"780 Yates St, Victoria, BC V8W 1L4",0.15,779350
+59170815,The Coda,"751 View St, Victoria, BC V8W 1J9",0.18,779350
+59170815,Metro Studio Theatre,"1411 Quadra St, Victoria, BC V8W 2L2",0.2,779350
+59170815,BOSA Community Room,"1025 Mason St, Victoria, BC V8V 0C6",0.28,779350
+59170815,Royal Theatre,"805 Broughton St, Victoria, BC V8W 1E5",0.3,779350
+59170815,YMCA-YWCA Downtown,"851 Broughton St, Victoria, BC V8W 1C4",0.3,779350
+59170815,Greater Victoria Public Library - Central Branch,"735 Broughton St, Victoria, BC V8W 3H2",0.38,779350
+59170815,Intrepid Theatre Company Society,"1609 Blanshard St #2, Victoria, BC V8W 2J5",0.38,779350
+59170815,Pacific Opera Victoria & Baumann Centre,"925 Balmoral Rd, Victoria, BC V8W 2L5",0.39,779350
+59170815,Philippine Bayanihan Community Centre,"1709 Blanshard St, Victoria, BC V8W 2J8",0.44,779350
+59170815,Victoria Bug Zoo,"631 Courtney St, Victoria, BC V8W 1B8",0.5,779350
 59170816,Burnside Gorge Community Centre,"471 Cecelia Rd, Victoria, BC V8T 4T4",1.01,1287572
 59170817,Burnside Gorge Community Centre,"471 Cecelia Rd, Victoria, BC V8T 4T4",0.99,680343
 59170819,Dino Lab Inc.,"43 & 45 Erie St Unit #100, Victoria, BC V8V 1P8",0.85,1005417

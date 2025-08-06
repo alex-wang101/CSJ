@@ -124,6 +124,8 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.35
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.36
 59170146,"2555 Vancouver St, Victoria, BC V8T 4A6",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.5
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.24
+59170147,"2511 Quadra St, Victoria, BC V8T 4E1",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.38
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.29
 59170148,"2317 Dowler Pl, Victoria, BC V8T 4H5",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.48
 59170148,"2501 Dowler Pl, Victoria, BC V8T 4H7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.34
@@ -135,7 +137,7 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170149,"2620 Dowler Pl, Victoria, BC V8T 4H8",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.3
 59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.12
 59170149,"955 Hillside Ave, Victoria, BC V8T 1Z9",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.16
-59170150,"723 Field St, Victoria, BC V8T 1N7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.51
+59170150,"723 Field St, Victoria, BC V8T 1N7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.5
 59170151,"932 Market St, Victoria, BC V8T 2E9",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.11
 59170151,"932 Market St, Victoria, BC V8T 2E9",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.16
 59170152,"272 Fifth St, Victoria, BC V8T 4E8",Jackson Park,"3173 Jackson St, Victoria, BC V8X 1E2",0.25
@@ -161,6 +163,8 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Oaklands Park,"1500 Kings Rd, Victoria, BC V8R 4G8",0.31
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Kings Community Nature Space,"1845 Kings Rd, Victoria, BC V8R 2P3",0.31
 59170157,"2576 Empire St, Victoria, BC V8T 3M6",Hillside Park,"1280 Hillside Ave, Victoria, BC V8T 2B3",0.46
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",Pioneer Square,"975 Quadra St, Victoria, BC V8W 2K5",0.0
+59170161,"1708 Quadra St, Victoria, BC V8W 2L8",Wark Street Park,"2575 Wark St, Victoria, BC V8T 4G7",0.16
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.18
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.24
 59170162,"1028 Balmoral Rd, Victoria, BC V8T 1A8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.36
@@ -177,7 +181,11 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170163,"930 Yates St, Victoria, BC V8V 4Z3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.38
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.22
 59170164,"1030 Yates St, Victoria, BC V8V 5A7",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.43
-59170165,"1144 View St, Victoria, BC V8V 3M1",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.33
+59170165,"1144 View St, Victoria, BC V8V 3M1",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.32
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.13
+59170166,"1132 Johnson St, Victoria, BC V8V 3N8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.32
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.27
+59170166,"1215 Johnson St, Victoria, BC V8V 3N9",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.36
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.16
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.17
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.34
@@ -185,8 +193,8 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170167,"1607 Rebecca St, Victoria, BC V8T 3N3",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.48
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.22
 59170168,"1229 Pandora Ave, Victoria, BC V8V 3R3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.32
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.12
-59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.32
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.13
+59170168,"26-1132 Johnson St, Victoria, BC V8V 3N8",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.34
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Haegert Park,"1202 Yukon St, Victoria, BC V8T 1B6",0.08
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Harris Green Park,"1500 Cook St #1502, Victoria, BC V8V 3P9",0.37
 59170169,"1230 Balmoral Rd, Victoria, BC V8T 1B3",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.4
@@ -534,18 +542,35 @@ DAUID,DA_address,Target_name,Target_address,Distance (km)
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.41
 59170722,"19-103 Wilson St, Victoria, BC V9A 6X1",Barnard Park,"300 Barnard Ave, Victoria, BC V9A 3R6",0.43
 59170723,"103 Tyee Rd, Victoria, BC",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.48
+59170805,"2121 Trans-Canada Hwy, Victoria, BC V8T 4L2",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.52
+59170805,"515 Chatham St #103, Victoria, BC V8T 1E1",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.41
 59170806,"827 Princess Ave, Victoria, BC V8T 1K7",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.22
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.17
+59170807,"1809 Douglas St, Victoria, BC V8W 0B8",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.41
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Central Park,"2275 Quadra St, Victoria, BC V8T 4C4",0.18
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Royal Athletic Park,"1014 Caledonia Ave, Victoria, BC V8T 1E8",0.25
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Blackwood Park,"2550 Cook St, Victoria, BC V8T 3R8",0.31
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Stevenson Memorial Park,"1233 Pembroke St, Victoria, BC V8T 1J6",0.47
 59170808,"933 Pembroke St, Victoria, BC V8T 1J1",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.48
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.1
+59170809,"715 Pandora Ave, Victoria, BC V8W 1N9",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.31
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.05
+59170810,"1525 Amelia St, Victoria, BC V8W 2K1",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.35
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.29
+59170811,"1207 Douglas St #303, Victoria, BC V8W 2E7",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.45
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.47
+59170811,"517 Fort St, Victoria, BC V8W 2Y6",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.47
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.29
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.35
+59170811,"805 Gordon St, Victoria, BC V8W 1Z6",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.44
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.17
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.2
 59170814,"755 Humboldt St, Victoria, BC V8W 1B1",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.3
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Thunderbird Park,"638 Douglas St, Victoria, BC V8V 2P8",0.39
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Beacon Hill Park,"100 Cook St, Victoria, BC V8V 4Z8",0.4
 59170814,"850 Blanshard St, Victoria, BC V8W 2H2",Cridge Park,"720 Belleville St., Victoria, BC V8W 1A3",0.47
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Franklin Green,"1045 Mason St, Victoria, BC V8V 3P5",0.28
+59170815,"831 Yates St, Victoria, BC V8W 1M1",Centennial Square,"1 Centennial Square, Victoria, BC V8W 1P5",0.43
 59170816,"1116 Catherine St, Victoria, BC V9A 3V7",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.37
 59170816,"542 Northcott Ave, Victoria, BC V9A 2V4",Banfield Park,"521 Craigflower Rd, Victoria, BC V9A 2V8",0.28
 59170817,"787 Tyee Rd #309, Victoria, BC V9A 7R5",Victoria West Park,"95 Bay St, Victoria, BC V9A 6X9",0.5
